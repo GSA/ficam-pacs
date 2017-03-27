@@ -1,0 +1,126 @@
+# Site settings
+title: PIV Usage Guides
+name: PIV Usage Guides
+email: icam@gsa.gov
+author:
+    name: FICAM
+description: PIV Guidance
+highlighter: rouge
+repo_url: https://github.com/GSA/piv-guides
+baseurl: '/piv-guides'
+branch: federalist-pages
+# Federalist overwrites the site.branch value when deploying
+# the site.branch was used in dynamic link generation for objects like Edit Page
+# we want the dynamic links to send users to the staging branch.  Adding new site variable to ensure federalist doesn't overwrite.
+editbranch: staging
+
+#ficam_playbooks_url: /ficam-guides/
+
+# Links
+# List links that you would like to appear on the top navigation bar here
+navbar:
+- title: IDmanagement.gov
+  description: Idmanagement.gov
+  url: https://www.idmanagement.gov
+- title: Federal ICAM Architecture
+  description: Federal ICAM Architecture
+  url: https://arch.idmanagement.gov
+#- title: PIV Guides
+# description: PIV Guides
+# url: https://piv.idmanagement.gov
+#- title: Federal PKI Guides
+#  description: Federal PKI Guides
+#  url: https://github.com/gsa/fpki-guides
+
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+- bin
+- config.rb
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- script
+- vendor
+
+navigation:
+- text: Introduction
+  url: ''
+  internal: true
+  coll: false
+- text: Basics of a PIV
+  url: elements
+  internal: true
+  coll: false
+- text: Getting Started
+  url: start
+  internal: true
+  coll: false
+- text: Details of a PIV
+  url: details
+  internal: true
+  coll: false
+- text: Identifiers in a PIV
+  url: identifiers
+  internal: true
+  coll: false
+- text: Certificate Trust
+  url: pivcertchains
+  internal: true
+  coll: false
+- text: Network Authentication
+  url: networkconfig/
+  internal: true
+  coll: true
+  collname: networkconfig
+- text: Developer Guides
+  url: devconfig/
+  internal: true
+  coll: true
+  collname: devconfig
+- text: User Guides
+  url: userconfig/
+  internal: true
+  coll: true
+  collname: userconfig
+#- text: Script and Code Samples
+#  url: code
+#  internal: true
+#  coll: false
+- text: Contribute
+  url: contribute
+  internal: true
+  coll: false
+
+collections:
+  networkconfig:
+    label: "Network Authentication"
+    permalink: /networkconfig/:path/
+    output: true
+  userconfig:
+    label: "User Guides"
+    permalink: /userconfig/:path/
+    output: true
+  devconfig:
+    label: "Developer Guides"
+    permalink: /devconfig/:path/
+    output: true
+
+
+include:
+- _stylesheets
+- _javascript
+
+
+
+# Custom site configuration
+lang: en
