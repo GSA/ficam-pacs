@@ -94,7 +94,7 @@ collections:
     label: "Getting Started"
     permalink: /start/:path/
     output: true
-  use-cases:
+  usecases:
     label: "Use Cases"
     permalink: /usecases/:path/
     output: true
