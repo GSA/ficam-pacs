@@ -1,0 +1,10 @@
+name: 'Federal Physical Access Control System Guides'
+description: 'PACS guidance for Federal agencies on basic knowledge and buying'
+openSourceProject: 1
+governmentWideReuseProject: 1
+tags:
+    - pacs
+    - physical
+    - access
+contact:
+    email: icam@gsa.gov
