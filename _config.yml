@@ -63,6 +63,21 @@ navigation:
   url: basics
   internal: true
   coll: false
+- Getting Started
+  url: start/
+  internal: true
+  coll:true
+  collname: start
+- text: Use Cases
+  url: usecases/
+  internal: true
+  coll: true
+  collname: usecases
+- text: FAQ
+  url: faq/
+  internal: true
+  coll: true
+  collname: faq
 - text: Contribute
   url: contribute
   internal: true
@@ -81,7 +96,7 @@ collections:
     output: true
   use-cases:
     label: "Use Cases"
-    permalink: /use-cases/:path/
+    permalink: /usecases/:path/
     output: true
    
 
