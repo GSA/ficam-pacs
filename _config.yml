@@ -1,7 +1,7 @@
 # Site settings
 
-title: Federal Identity, Credential, and Access Management (FICAM) Physical Access Control Systems (PACS) Guides
-name: Federal Identity, Credential, and Access Management (FICAM) Physical Access Control Systems (PACS) Guides
+title: Federal Identity, Credential, and Access Management PACS Guides
+name: Federal Identity, Credential, and Access Management PACS Guides
 email: icam@gsa.gov
 author:
     name: FICAM
@@ -94,7 +94,7 @@ collections:
     label: "Getting Started"
     permalink: /start/:path/
     output: true
-  use-cases:
+  usecases:
     label: "Use Cases"
     permalink: /usecases/:path/
     output: true
