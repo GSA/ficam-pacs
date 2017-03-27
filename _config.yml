@@ -79,7 +79,7 @@ navigation:
   coll: true
   collname: faq
 - text: Contribute
-  url: contribute
+  url: contribute/
   internal: true
   coll: false
 
