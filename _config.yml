@@ -63,7 +63,7 @@ navigation:
   url: basics
   internal: true
   coll: false
-- Getting Started
+- text: Getting Started
   url: start/
   internal: true
   coll: true
