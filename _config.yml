@@ -1,0 +1,108 @@
+# Site settings
+
+title: Federal Identity, Credential, and Access Management PACS Guides
+name: Federal Identity, Credential, and Access Management PACS Guides
+email: icam@gsa.gov
+author:
+    name: FICAM
+description: Information on the US Federal Physical Access Control Systems (PACS)
+highlighter: rouge
+repo_url: https://github.com/GSA/ficam-pacs
+baseurl: '/ficam-pacs'
+branch: federalist-pages
+# Federalist overwrites the site.branch value when deploying
+# the site.branch was used in dynamic link generation for objects like Edit Page
+# we want the dynamic links to send users to the staging branch.  Adding new site variable to ensure federalist doesn't overwrite.
+editbranch: staging
+
+
+# Links
+# List links that you would like to appear on the top navigation bar here
+navbar:
+- title: IDmanagement.gov
+  description: Idmanagement.gov
+  url: https://www.idmanagement.gov
+- title: Federal ICAM Architecture
+  description: Federal ICAM Architecture
+  url: https://arch.idmanagement.gov
+- title: PIV Guides
+  description: PIV Guides
+  url: https://piv.idmanagement.gov
+#- title: Federal PKI Guides
+#  description: Federal PKI Guides
+#  url: https://github.com/gsa/fpki-guides
+#- title: Federal ICAM PACS Guides
+#  description: Federal ICAM PACS Guides
+#  url: https://github.com/gsa/ficam-pacs
+
+# Build settings
+markdown: kramdown
+
+#kramdown:
+#  input: GFM
+# syntax_highlighter: rouge
+
+exclude:
+- bin
+- config.rb
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- script
+- vendor
+
+navigation:
+- text: Introduction
+  url: ''
+  internal: true
+  coll: false
+- text: Basics of a PACS
+  url: basics
+  internal: true
+  coll: false
+- text: Getting Started
+  url: start/
+  internal: true
+  coll: true
+  collname: start
+- text: Use Cases
+  url: usecases/
+  internal: true
+  coll: true
+  collname: usecases
+- text: FAQ
+  url: faq/
+  internal: true
+  coll: true
+  collname: faq
+- text: Contribute
+  url: contribute/
+  internal: true
+  coll: false
+
+
+#https://github.com/jekyll/jekyll/issues/2346
+collections:
+  faq:
+    label: "FAQ"
+    permalink: /faq/:path/
+    output: true
+  start:
+    label: "Getting Started"
+    permalink: /start/:path/
+    output: true
+  usecases:
+    label: "Use Cases"
+    permalink: /usecases/:path/
+    output: true
+   
+
+include:
+- _stylesheets
+- _javascript
+
+# Custom site configuration
+lang: en
