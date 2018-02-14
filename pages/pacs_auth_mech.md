@@ -60,7 +60,7 @@ Table 3 lists the candidate authentication mechanisms for each of the three secu
 
 #### Table 3. Candidate Authentication Mechanisms
 
-| **Category**  | **No. Factors Required** | **Acceptable Factors** | **PIV Mechanism:<br>Contact Interface**  |  **PIV Mechanism:<br>Contactless Interface** |
+| **Category**  | **No. Factors<br>Required** | **Acceptable Factors** | **PIV Mechanism:<br>Contact Interface**  |  **PIV Mechanism:<br>Contactless Interface** |
 | :-------- | :------: | :----- | :-----  | :-----     |
 | **Controlled**   | 1 | Something you have OR<br>Something you know OR<br>Something you are  |  PKI-CAK<br>SYM-CAK<br>BIO  | PKI-CAK<br> SYM-CAK   |
 | **Limited**   | 2 |Something you have AND<br>something you know, OR<br>Something you have AND<br>something you are, OR<br>Something you know AND<br>something you are  | PKI-AUTH,<br>BIO-A,<br> OCC-AUTH  |  | 
