@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Procure an Approved PACS
-permalink: /procurepacs/
+permalink: /procure/
 ---
 Add text
