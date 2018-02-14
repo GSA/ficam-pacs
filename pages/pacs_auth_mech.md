@@ -36,7 +36,7 @@ NIST SP800-116 recommends the minimum number of authentication factors required 
 
 **Table 2. Number of Required Authentication Factors**<br>
 
-| **Security Area** | **Minimum No. Required Authentication Factors**    |
+| **Security Area** | **Minimum No. Required<br>Authentication Factors**    |
 | :----------- | :-------------------------------:     |
 | **Controlled**  |  1 |  
 | **Limited**   | 2 |  
@@ -62,13 +62,9 @@ Table 3 lists the candidate authentication mechanisms for each of the three secu
 
 | **Category**  | **No. Factors Required** | **Acceptable Factors** | **PIV Mechanism:<br>Contact Interface**  |  **PIV Mechanism:<br>Contactless Interface** |
 | :-------- | :------: | :----- | :-----  | :-----     |
-| **Controlled**   | 1 | Something you have OR<br>Something you know OR<br>
-Something you are  |  PKI-CAK<br>SYM-CAK<br>
-BIO  | PKI-CAK<br> SYM-CAK   |
-| **Limited**   | 2 |Something you have AND<br>something you know, OR<br>Something you have AND<br>something you are, OR<br>Something you know AND<br>something you are  | PKI-AUTH,<br>BIO-A,<br> OCC-AUTH
-  |  | 
-| **Exclusion**  | 3 | Something you have AND<br>something you know AND<br>something you are | PKI-CAK + BIO(-A),<br>SYM-CAK + BIO(-A)
-  |   | 
+| **Controlled**   | 1 | Something you have OR<br>Something you know OR<br>Something you are  |  PKI-CAK<br>SYM-CAK<br>BIO  | PKI-CAK<br> SYM-CAK   |
+| **Limited**   | 2 |Something you have AND<br>something you know, OR<br>Something you have AND<br>something you are, OR<br>Something you know AND<br>something you are  | PKI-AUTH,<br>BIO-A,<br> OCC-AUTH  |  | 
+| **Exclusion**  | 3 | Something you have AND<br>something you know AND<br>something you are | PKI-CAK + BIO(-A),<br>SYM-CAK + BIO(-A)  |   | 
   
 When using SYM-CAK, PKI-CAK, and PKI-AUTH authentication mechanisms, certificates should be validated when possible. Verify the certificate against a certificate revocation list (CRL) or online certificate status protocol (OCSP) server, and verify the origin of the certificate through the trust chain of issuing certificate authorities to the root certificate authority, using certificate path validation.
 
@@ -85,8 +81,8 @@ _PIV in Enterprise Physical Access Control Systems (E-PACS)_.
 * Review current and new or planned PACS installations. 
 * Agency PACS that are currently using non-PIV tokens must be replaced or upgraded to use PIV cards for authentication.
 > Current agency PACS based on PIV CHUID authentication must be upgraded to use the candidate authentication mechanisms.
-> New agency PACS must be PIV-enabled, using the candidate authentication mechanisms.
-*Implement a common procurement process and purchase approved PACS systems and equipment from the GSA Approved Products List (APL).
+> New agency PACS must be PIV-enabled, using the candidate authentication mechanisms.<br>
+* Implement a common procurement process and purchase approved PACS systems and equipment from the GSA Approved Products List (APL).
 
 #### Technical implementation
 
