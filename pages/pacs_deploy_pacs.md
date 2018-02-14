@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deploy a PACS
-permalink: /deploypacs/
+permalink: /deploy/
 ---
 
 Add text
