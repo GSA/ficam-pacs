@@ -4,7 +4,7 @@ title: Understand Enterprise PACS
 permalink: /enterprisepacs/
 ---
 
-(Original title:  Understanding Enterprise PACS and Security Functions)
+New title: Understand Enterprise PACS (Original title:  Understanding Enterprise PACS and Security Functions)
 
 ### The Current State of PACS in Government
 
