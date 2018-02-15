@@ -4,8 +4,7 @@ title: Understand Enterprise PACS
 permalink: /enterprisepacs/
 ---
 
-New title: Understand Enterprise PACS (Original title:  Understanding Enterprise PACS and Security Functions)
-
+<!--Original title:  Understanding Enterprise PACS and Security Functions-->
 ### The Current State of PACS in Government
 
 Individual PACS are often part of a local “security” network (not the enterprise network), along with cameras, intrusion detection sensors, and other security devices.  In some cases, the PACS is not connected to any network.  As a result, different brands of PACSs or even multiple PACSs that are the same brand, are individually administered with little thought given to unifying security policies enterprise-wide.
@@ -22,7 +21,10 @@ For a variety of reasons, some agencies have undertaken efforts to network their
 
 ### Current Government Directives for an Enterprise PACS
 
-**INSERT IMAGE HERE:** **Is this Figure 1. Architecture and Components of an Enterprise PACS Environment?** <!--"Enterprise PACS Management System" shown next to figure. Caption was separated from figure.-->
+
+
+
+**Figure 2. Architecture and Components of an Enterprise PACS Environment**
 
 Authoritative sources are connected to an in-place PACS over what is called the External Interface/Cardholder Provisioning System or a Centralized Enterprise PACS Management System.  An Enterprise PACS management system can help reduce human error, reduce costs, and provide a unified view of all identities and their privileges.
 
