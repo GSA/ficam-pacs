@@ -17,9 +17,11 @@ For a variety of reasons, some agencies have undertaken efforts to network their
 
 ### What Is an Enterprise PACS?
 
-“Enterprise PACS” refers to the concept of connecting the PACS to the owners’ enterprise network leveraging the FICAM infrastructure to support strong authentication using the PIV card.  An enterprise PACS provides one access control environment that can be shared and managed centrally.  For more information see Chapter 10, page 313, of “The Federal Identity Credential and Access Management (FICAM) Roadmap and Guidance,” Version 2.0 (the FICAM Roadmap), which details the notional architecture and components of an enterprise PACS environment (Figure 1).
+“Enterprise PACS” refers to the concept of connecting the PACS to the owners’ enterprise network leveraging the FICAM infrastructure to support strong authentication using the PIV card.  An enterprise PACS provides one access control environment that can be shared and managed centrally.  For more information see Chapter 10, page 313, of “The Federal Identity Credential and Access Management (FICAM) Roadmap and Guidance,” Version 2.0 (the FICAM Roadmap), which details the notional architecture and components of an enterprise PACS environment (Figure 2).
 
 ### Current Government Directives for an Enterprise PACS
+
+* <**NOTE to Contributors/Reviewers: No text existed in original ACC Playbook (in this location) related to "current government directives.">**
 
 ![Enterprise PACS management system](../img/enterprise_mgmt_system.png){:style="width:30%;float:center;"}
 
@@ -45,9 +47,11 @@ Three security functions are fundamental to an enterprise PACS:
 * **Authorization.** Just because someone has an authentic high assurance credential (such as a PIV card or Common Access Card (CAC)) does not mean that person should be able to access every resource.  Authorizing access only to the resources each person needs to perform a job is paramount to controlling risk.  In a large enterprise with thousands of employees and contractors needing access to thousands of physical access points, attempting to manage authorization manually is costly and error-prone.  Some form of policy-based automated authorization process is needed.
 * **Audit.** Compliance to policy must be measured and monitored and violations or defects mitigated.  It is almost impossible to audit authentication and authorizations for every individual without an enterprise PACS management system.
 
-Figure 2, from Chapter 4, page 102, of the FICAM Roadmap, illustrates these concepts.
+Figure 3, from Chapter 4, page 102, of the FICAM Roadmap, illustrates these concepts.
 
-**INSERT IMAGE HERE:** **Figure 2. FICAM Architecture and Flow for Electronically Automated Provisioning and Access Authorization with Audit Capabilitie** 
+![FICAM arch and flow automated provisioning and access](../img/arch_flow_provision_access.png){:style="width:30%;float:center;"}
+
+**Figure 3. FICAM Architecture and Flow for Electronically Automated Provisioning and Access Authorization with Audit Capabilitie** 
 
 Authoritative sources (Active Directory, PIV card database, personnel security system, other identity management systems (IDMS)) are connected to the enterprise PACS management system and automatically add new identities and remove terminated identities.  Most IDMS sources include an application programing interface (API) that allows external systems to access identity information.  The enterprise PACS management system should use that API to provide a near real-time interface, so that new identities are added within minutes.  Any changes to identity attribute data are similarly synchronized between the specific authoritative source and the enterprise PACS management system. This timely synchronization ensures that policy decisions regarding access can be implemented immediately.
 
