@@ -8,7 +8,7 @@ In order to determine how many factors of authentication are required, a risk an
 
 ![Process for selecting authentication mechanism](../img/auth_mech_select.png){:style="width:30%;float:center;"}
 
-**INSERT IMAGE**; Caption = Authentication Mechanism Selection Process
+**Figure 1. Authentication Mechanism Selection Process**
 
 **1. Asset Risk Assessment.** The first step is to evaluate the likelihood and effect of losing or compromising each asset within a security area. If the likelihood is high or the impact is substantial, then categorize the risk to that asset as HIGH.  Other assets may have LOW or MODERATE risk.
 
