@@ -51,7 +51,7 @@ Figure 3, from Chapter 4, page 102, of the FICAM Roadmap, illustrates these conc
 
 ![FICAM arch and flow automated provisioning and access](../img/arch_flow_provision_access.png){:style="width:30%;float:center;"}
 
-**Figure 3. FICAM Architecture and Flow for Electronically Automated Provisioning and Access Authorization with Audit Capabilitie** 
+**Figure 3. FICAM Architecture and Flow for Electronically Automated Provisioning and Access Authorization with Audit Capabilities** 
 
 Authoritative sources (Active Directory, PIV card database, personnel security system, other identity management systems (IDMS)) are connected to the enterprise PACS management system and automatically add new identities and remove terminated identities.  Most IDMS sources include an application programing interface (API) that allows external systems to access identity information.  The enterprise PACS management system should use that API to provide a near real-time interface, so that new identities are added within minutes.  Any changes to identity attribute data are similarly synchronized between the specific authoritative source and the enterprise PACS management system. This timely synchronization ensures that policy decisions regarding access can be implemented immediately.
 
