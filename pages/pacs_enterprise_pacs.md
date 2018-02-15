@@ -21,8 +21,7 @@ For a variety of reasons, some agencies have undertaken efforts to network their
 
 ### Current Government Directives for an Enterprise PACS
 
-
-
+![Enterprise PACS management system](../img/enterprise_mgmt_system.png){:style="width:30%;float:center;"}
 
 **Figure 2. Architecture and Components of an Enterprise PACS Environment**
 
