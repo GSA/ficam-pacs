@@ -6,7 +6,7 @@ permalink: /authmech/
 
 In order to determine how many factors of authentication are required, a risk analysis should be conducted for each access point (door). The diagram below outlines the multi-step process for selecting which mechanism to use for authentication.  At a minimum, the process includes four steps:
 
-![Process for selecting authentication mechanism](../img/auth_mech_select.png){:style="float:center"}
+![Process for selecting authentication mechanism](../img/auth_mech_select.png){:style="width:50%;float:center;"}
 
 **INSERT IMAGE**; Caption = Authentication Mechanism Selection Process
 
