@@ -19,24 +19,24 @@ Agency policy may dictate a background check before granting access to a PIV-I c
 
 **Table 4. Comparison of PIV and PIV-I Cards**
 
-| **POLICY** |  **PIV** | **PIV-I** | 
+| **Policy** |  **PIV** | **PIV-I** | 
 | :-------- | :------------ | :----------- | 
 | Breeder documents  | Follows FIPS 201 |  Follows FIPS 201  | 
 | Background checks  | National Agency check with investigation | None required |
-| **PROCESS** |   |   |  
+| **Process** |   |   |  
 | Application, Adjudication,<br>Enrollment, Issuance,<br>Activation  | Follows FIPS 201: separation of<br>roles, strong biometric binding | Follows Federal Bridge cross-certification<br>certificate policies.<br>Follows NIST SP 800-63-1 for<br>Federal issuance.<br>Based on FIPS 201: separation<br>of roles, strong biometric binding. |  
-| **TECHNOLOGY** |   |  | 
+| **Technology** |   |  | 
 | Card data mode  | Must follow SP 800-73 | Must follow SP 800-73  | 
 | Current primary credential number   | FASC-Nb (requires federal agency code) | UUID (no federal agency code required) | 
 | Object identifiers  | Federal Bridge | Federal Bridge  | 
-| **FEDERATION LEVELS&nbsp;OF ASSURANCE** |   |  | 
+| **Federation Levels&nbsp;of Assurance** |   |  | 
 | Trustworthiness   | Trusted identity, credential, and suitability | Trusted basic identity and credential<br>but not suitability | 
 | Trust among organizations   | Federal Bridge | Clustered through Federal Bridge | 
-| **ORIGIN** |  |  | 
+| **Origin** |  |  | 
 | Organization   | NIST Federal | CIO Council | 
 | Defining documents   | FIPS 201, FIPS 201-2, NIST SP 800-73 and other related NIST publications | Personal Identity Verification Interoperability for NFIs(1)<br>FICAM PIV-I FAQ(2) | 
 | Motivation | HSPD-12 | Interoperable credential for organizations doing business with the government and for first responders |
-| **MARKETS** |   |  | 
+| **Markets** |   |  | 
 | Organizations that may issue and/or use the credential  | Federal agencies | Federal agencies<br>Federal contractors<br>Commercial organizations doing business with the Federal Government<br>State and local governments<br>Critical infrastructure providers<br>First responder organizations<br>Commercial organizations who are part of an industry initiative and require an interoperable, trusted credential | 
 | Use  | Credential can be used in a wide range of both employment-related and consumer-based transactions.<br>Examples include physical access, logical access(5), mass transit, and closed loop payments. | Same as for PIV  |
 
@@ -49,9 +49,9 @@ Federal contractors, as well as a variety of other organizations, including larg
 * **Economies of scale.**  As use of PIV and PIV-I credentials increases, multiple commercial sources become available for the card, the card reader, supporting middleware, and operating systems.  Increasing availability reduces the cost of implementation, speeds up deployment, and simplifies use.
 * **Multiple form factors.**  A PIV-I credential can take a variety of forms, such as a plastic card, a USB token, or a smart phone.  PIV-I credentials can therefore be included in a variety of devices.
 * **Fewer credentials.**  The ultimate goal is to reduce the number of identity credentials that individuals must carry or remember.
-> **Identity assurance.**  Individuals with PIV-I credentials have been verified through an identity proofing process and enrollment system.  Entities can rely on a basic level of identity confirmation and privacy protection to secure web and messaging applications. 
-> **Data protection.**  Use of the PIV-I credential supports the secure transfer and storage of data and messages, using encryption and digital signatures. 
-> **Remote access.**  PIV-I credentials use smart card technology and provide strong authentication for remote and wireless access to enterprise networks.
+> **Identity assurance.**  Individuals with PIV-I credentials have been verified through an identity proofing process and enrollment system.  Entities can rely on a basic level of identity confirmation and privacy protection to secure web and messaging applications.<br> 
+> **Data protection.**  Use of the PIV-I credential supports the secure transfer and storage of data and messages, using encryption and digital signatures.<br> 
+> **Remote access.**  PIV-I credentials use smart card technology and provide strong authentication for remote and wireless access to enterprise networks.<br>
 
 ### What is the difference between PIV and PIV-I readers?
 
