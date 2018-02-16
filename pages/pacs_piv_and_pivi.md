@@ -19,18 +19,18 @@ Agency policy may dictate a background check before granting access to a PIV-I c
 
 **Table 4. Comparison of PIV and PIV-I Cards**
 
-#### POLICY
+* **POLICY**
 | **Q: What are items<br>listed here?** |  **PIV** | **PIV-I** | 
 | :-------- | :------------ | :----------- | 
 | Breeder documents  | Follows FIPS 201 |  Follows FIPS 201  | 
 | Background checks  | National Agency check with investigation | None required |
-#### PROCESS
+* **PROCESS**
 | **Q: What are items<br>listed here?** |  **PIV** | **PIV-I** | 
 | :-------- | :------------ | :----------- | 
 | Application<BR>Adjudication<br>Enrollment<br>Issuance<br>Activation  | Follows FIPS 201: separation of roles, strong biometric binding
  | Follows Federal Bridge cross-certification certificate policies. Follows NIST SP 800-63-1 for Federal issuance.
 Based on FIPS 201: separation of roles, strong biometric binding. |  
-#### TECHNOLOGY
+* **TECHNOLOGY**
 | **Q: What are items<br>listed here?** |  **PIV** | **PIV-I** | 
 | :-------- | :------------ | :----------- | 
 | Card data mode  | Must follow SP 800-73 | Must follow SP 800-73  | 
