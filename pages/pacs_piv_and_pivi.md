@@ -27,7 +27,7 @@ Agency policy may dictate a background check before granting access to a PIV-I c
 #### PROCESS
 | **Q: What are these?** |  **PIV** | **PIV-I** | 
 | :-------- | :------------ | :----------- | 
-| Application, Adjudication, Enrollment, Issuance, Activation  | Follows FIPS 201: separation of roles, strong biometric binding | Follows Federal Bridge cross-certification certificate policies. Follows NIST SP 800-63-1 for Federal issuance. Based on FIPS 201: separation of roles, strong biometric binding. |  
+| Application, Adjudication, Enrollment, Issuance,<br>Activation  | Follows FIPS 201: separation of roles,<br>strong biometric binding | Follows Federal Bridge cross-certification<br>certificate policies.<br>Follows NIST SP 800-63-1 for<br>Federal issuance.<br>Based on FIPS 201: separation<br>of roles, strong biometric binding. |  
 #### TECHNOLOGY
 | **Q: What are these?** |  **PIV** | **PIV-I** | 
 | :-------- | :------------ | :----------- | 
