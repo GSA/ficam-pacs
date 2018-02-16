@@ -19,7 +19,7 @@ Agency policy may dictate a background check before granting access to a PIV-I c
 
 **Table 4. Comparison of PIV and PIV-I Cards**
 
-* **POLICY**
+* **POLICY**<br>
 | **Q: What are items<br>listed here?** |  **PIV** | **PIV-I** | 
 | :-------- | :------------ | :----------- | 
 | Breeder documents  | Follows FIPS 201 |  Follows FIPS 201  | 
