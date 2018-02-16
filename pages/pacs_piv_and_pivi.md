@@ -38,7 +38,7 @@ Agency policy may dictate a background check before granting access to a PIV-I c
 | Motivation | HSPD-12 | Interoperable credential for organizations doing business with the government and for first responders |
 | **Markets** |   |  | 
 | Organizations that may issue and/or use the credential  | Federal agencies | Federal agencies<br>Federal contractors<br>Commercial organizations doing business with the Federal Government<br>State and local governments<br>Critical infrastructure providers<br>First responder organizations<br>Commercial organizations who are part of an industry initiative and require an interoperable, trusted credential | 
-| Use  | Credential can be used in a wide range of both employment-related and consumer-based transactions.<br>Examples include physical access, logical access<sup>[5](#5)</sup>, mass transit, and closed loop payments. | Same as for PIV  |
+| Use  | Credential can be used in a wide range of both employment-related and consumer-based transactions.<br>Examples include physical access, logical access,<sup>[5](#5)</sup> mass transit, and closed loop payments. | Same as for PIV  |
 
 ### Does PIV-I Affect Federal Agencies and Employees?
 
