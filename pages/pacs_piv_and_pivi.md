@@ -24,21 +24,21 @@ Agency policy may dictate a background check before granting access to a PIV-I c
 | Breeder documents  | Follows FIPS 201 |  Follows FIPS 201  | 
 | Background checks  | National Agency check with investigation | None required |
 | **Process** |   |   |  
-| Application, Adjudication,<br>Enrollment, Issuance,<br>Activation  | Follows FIPS 201: separation of<br>roles, strong biometric binding | Follows Federal Bridge cross-certification<br>certificate policies.<br>Follows NIST SP 800-63-1 for<br>Federal issuance.<br>Based on FIPS 201: separation<br>of roles, strong biometric binding. |  
+| Application, Adjudication,<br>Enrollment, Issuance,<br>Activation  | Follows FIPS 201: separation of<br>roles, strong biometric binding | Follows Federal Bridge cross-certification<br>certificate policies.<sup>[1](#1)</sup><br>Follows NIST SP 800-63-1 for<br>Federal issuance.<br>Based on FIPS 201: separation<br>of roles, strong biometric binding. |  
 | **Technology** |   |  | 
 | Card data mode  | Must follow SP 800-73 | Must follow SP 800-73  | 
-| Current primary credential number   | FASC-Nb (requires federal agency code) | UUID (no federal agency code required) | 
+| Current primary credential number   | FASC-N<sup>[2](#2)</sup> (requires federal agency code) | UUID (no federal agency code required) | 
 | Object identifiers  | Federal Bridge | Federal Bridge  | 
 | **Federation Levels&nbsp;of Assurance** |   |  | 
 | Trustworthiness   | Trusted identity, credential, and suitability | Trusted basic identity and credential<br>but not suitability | 
 | Trust among organizations   | Federal Bridge | Clustered through Federal Bridge | 
 | **Origin** |  |  | 
 | Organization   | NIST Federal | CIO Council | 
-| Defining documents   | FIPS 201, FIPS 201-2, NIST SP 800-73 and other related NIST publications | Personal Identity Verification Interoperability for NFIs(1)<br>FICAM PIV-I FAQ(2) | 
+| Defining documents   | FIPS 201, FIPS 201-2, NIST SP 800-73 and other related NIST publications | Personal Identity Verification Interoperability for NFIs<sup>[3](#3)</sup><br>FICAM PIV-I FAQ<sup>[4](#4)</sup> | 
 | Motivation | HSPD-12 | Interoperable credential for organizations doing business with the government and for first responders |
 | **Markets** |   |  | 
 | Organizations that may issue and/or use the credential  | Federal agencies | Federal agencies<br>Federal contractors<br>Commercial organizations doing business with the Federal Government<br>State and local governments<br>Critical infrastructure providers<br>First responder organizations<br>Commercial organizations who are part of an industry initiative and require an interoperable, trusted credential | 
-| Use  | Credential can be used in a wide range of both employment-related and consumer-based transactions.<br>Examples include physical access, logical access(5), mass transit, and closed loop payments. | Same as for PIV  |
+| Use  | Credential can be used in a wide range of both employment-related and consumer-based transactions.<br>Examples include physical access, logical access<sup>[5](#5)</sup>, mass transit, and closed loop payments. | Same as for PIV  |
 
 ### Does PIV-I Affect Federal Agencies and Employees?
 
@@ -53,10 +53,17 @@ Federal contractors, as well as a variety of other organizations, including larg
 > **Data protection.**  Use of the PIV-I credential supports the secure transfer and storage of data and messages, using encryption and digital signatures.<br> 
 > **Remote access.**  PIV-I credentials use smart card technology and provide strong authentication for remote and wireless access to enterprise networks.<br>
 
-### What is the difference between PIV and PIV-I readers?
+### What Is the Difference between PIV and PIV-I Readers?
 
 The PIV-I credential is technically interoperable with Federal PIV systems, including card readers.  
 
 The PIV and PIV-I technology and infrastructure are based on multiple standards governing components ranging from the physical token (the smart card) to the identity credential components to the PKI that enables interoperable trust.  Both PIV and PIV-I are based on FIPS 201-2 and accompanying special publications and reference other internationally recognized standards.  
 
-The GSA validates and approves products that comply with FIPS 201-2 and publishes the results as a GSA FICAM Approved Products List (APL2).  APL2-certified smart card readers are capable of reading identifiers on both PIV cards (Federal Agency Smart Credential Number, FASC-N 64-bit identifier) and PIV-I cards (128bit UUID, defined by RFC 4530).  PIV and PIV-I cards are interchangeable if the appropriate level of trust is established for the PIV-I card. 
+The GSA validates and approves products that comply with FIPS 201-2 and publishes the results as a GSA FICAM Approved Products List (APL2).  APL2-certified smart card readers are capable of reading identifiers on both PIV cards (Federal Agency Smart Credential Number, FASC-N 64-bit identifier) and PIV-I cards (128bit UUID, defined by RFC 4530).  PIV and PIV-I cards are interchangeable if the appropriate level of trust is established for the PIV-I card.
+
+------
+<a name="1">1</a>. [PIV-I Test Report Template](https://www.idmanagement.gov/piv-i_test_report_template-1/){:target="_blank"} **Corrected broken link (404). Please verify new link is correct reference.**<br>
+<a name="2">2</a>. The FASC-N contains a federal agency code that is managed by NIST.  PIV-I and CIV credential numbers (UUIDs) are generated by the issuing organization.  See NIST SP 800-87 for additional information.<br>
+<a name="3">3</a>. [PIV-I for Non-Federal Issuers](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/PIV_IO_NonFed_Issuers.pdf){:target="_blank"} **Corrected broken link (404). Please verify new link is correct reference.**<br>
+<a name="4">4</a>. [PIV-I FAQs](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/PIV-I_FAQ.pdf){:target="_blank"} **Corrected broken link (404). Please verify new link is correct reference.**<br>
+<a name="5">5</a>. Logical access includes computer logon, digital signatures, network access, application access, data/communication encryption.<br>
