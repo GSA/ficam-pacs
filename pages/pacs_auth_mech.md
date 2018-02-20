@@ -78,8 +78,7 @@ Use the following checklist to guide PACS policy, planning, and technical implem
 
 * Consider an agency-wide “enterprise PACS” approach, and designate a chief PACS officer to define agency-specific PACS policies and oversee the implementation of the enterprise PACS solution.
 * Review PIV-related Office of Management and Budget and agency policies:&nbsp;&nbsp;OMB M-06-18 and OMB M-11-11. <!--Standards and Policies identifiers and reference information has been moved to Standards and Policies section.-->
-* Review PACS standards and guidance:&nbsp;&nbsp;NIST SP 800-116-1; _FICAM  Roadmap and Implementation Guidance_; and
-_PIV in Enterprise Physical Access Control Systems (E-PACS)_.
+* Review PACS standards and guidance:&nbsp;&nbsp;NIST SP 800-116-1<!--800-116-1 is not Final; still a NIST Draft-->; _FICAM  Roadmap and Implementation Guidance_; and _PIV in Enterprise Physical Access Control Systems (E-PACS)_.
 * Review current and new or planned PACS installations. Agency PACS that are currently using non-PIV tokens must be replaced or upgraded to use PIV cards for authentication.
 > Current agency PACS based on PIV CHUID authentication must be upgraded to use the candidate authentication mechanisms.
 > New agency PACS must be PIV-enabled, using the candidate authentication mechanisms.<br>
