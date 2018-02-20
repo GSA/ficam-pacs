@@ -5,7 +5,7 @@ permalink: /enterprisepacs/
 ---
 
 <!--Original title:  Understanding Enterprise PACS and Security Functions-->
-### The Current State of PACS in Government
+## The Current State of PACS in Government
 
 Individual PACS are often part of a local “security” network (not the enterprise network), along with cameras, intrusion detection sensors, and other security devices.  In some cases, the PACS is not connected to any network.  As a result, different brands of PACSs or even multiple PACSs that are the same brand, are individually administered with little thought given to unifying security policies enterprise-wide.
 
@@ -15,11 +15,11 @@ Traditionally, physical security has focused on one site at a time, without rega
 
 For a variety of reasons, some agencies have undertaken efforts to network their PACSs into a coherent, centrally managed system.  
 
-### What Is an Enterprise PACS?
+## What Is an Enterprise PACS?
 
 “Enterprise PACS” refers to the concept of connecting the PACS to the owners’ enterprise network leveraging the FICAM infrastructure to support strong authentication using the PIV card.  An enterprise PACS provides one access control environment that can be shared and managed centrally.  For more information see Chapter 10, page 313, of “The Federal Identity Credential and Access Management (FICAM) Roadmap and Guidance,” Version 2.0 (the FICAM Roadmap), which details the notional architecture and components of an enterprise PACS environment (Figure 2).
 
-### Current Government Directives for an Enterprise PACS
+## Current Government Directives for an Enterprise PACS
 
 * <**NOTE to Contributors/Reviewers: No text existed in original ACC Playbook (in this location) related to "current government directives.">**
 
@@ -29,7 +29,7 @@ For a variety of reasons, some agencies have undertaken efforts to network their
 
 Authoritative sources are connected to an in-place PACS over what is called the External Interface/Cardholder Provisioning System or a Centralized Enterprise PACS Management System.  An Enterprise PACS management system can help reduce human error, reduce costs, and provide a unified view of all identities and their privileges.
 
-### Prerequisites for an Enterprise PACS
+## Prerequisites for an Enterprise PACS
 
 In order to unify PACSs, each system must either be part of the organization’s enterprise network or have a network connection.  The security department that manages the PACS must work with the organization’s IT department to obtain an Authority To Operate (ATO).  The ATO process can be costly and tedious and involves each PACS vendor, who may need to update or patch its software to fix security flaws.  The more PACSs involved, the more funding required.
 
@@ -37,7 +37,7 @@ One way to mitigate cost is to deploy an enterprise PACS management system on th
 
 Another variant is to deploy the enterprise PACS management system in a Federal Risk and Authorization Management Program (FEDRAMP) HIGH secure cloud and interconnect each PACS and authoritative source to that environment.  This solution is also subject to the FISMA controls implemented at the agency.
 
-### Vital Security Functions Performed by an Enterprise PACS Management System
+## Vital Security Functions Performed by an Enterprise PACS Management System
 
 The purpose of any access control system is to make sure the right person has the right access at the right time for the right reason.  Ultimately, some person or system needs to provision the “right” access levels.  Provisioning means specifying for each identity both the credential used (PIV card in government) and the privileges granted to access specific resources, such as a particular facility, door, or portal.  Correct provisioning can sometimes mean ensuring that a complex set of rules is enforced.  As such, this provisioning process is a vital security function.
 
@@ -61,7 +61,7 @@ Another key component is the audit trail.  It is vital to record who approved an
 
 The enterprise PACS management system should be able to support these functions not only for federal employees, long-term contractors and visitors from other agencies (PIV cardholders), but also for shorter-term contractors (non-PIV cardholders).  Agencies may consider issuing a _Commercial Identity Verification (CIV)_ card for the latter or validate and enroll a non-agency PIV card for the former and perform these authentication, authorization and audit functions.  The CIV card, which the agency may issue, shall support the GSA APL-approved PACS that can authenticate the card at the time of use.
 
-### Implementation Guidance for an Enterprise PACS Management System
+## Implementation Guidance for an Enterprise PACS Management System
 
 According to 41 USC &sect; 3307, preference for commercial items is U.S. law.  Federal Acquisition Regulation, subpart 44.4, reiterates that contractors must supply commercial off-the-shelf (COTS) products to the maximum extent possible.  With these requirements in mind, your agency should first investigate whether a COTS software product exists that can serve as an enterprise PACS management system.  In-house software development should be a last resort.
 
