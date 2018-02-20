@@ -3,11 +3,11 @@ layout: default
 title: Procure an Approved PACS
 permalink: /procure/
 ---
-### Where Can I Find Information about GSA-Approved Products?
+## Where Can I Find Information about GSA-Approved Products?
 
 The General Services Administration (GSA) is responsible for ensuring that products comply with FIPS-201 requirements. Products are evaluated based on specific topologies (parameters) and the results are available on the [FIPS 201 Evaluation Program](https://www.idmanagement.gov/fips201/){:target="_blank"} site and in the [GSA Approved Product List](https://www.idmanagement.gov/approved-products-list/){:target="_blank"}.
 
-### What Is a GSA APL-Listed PACS?
+## What Is a GSA APL-Listed PACS?
 
 The current GSA APL practice approves three components of a complete, end-to-end PACS: 
 
@@ -26,13 +26,13 @@ A GSA APL-listed PACS is engineered by the manufacturer to achieve the goals and
 
 The tools required to achieve these objectives include PKI and related certificate validation services with interfaces to the Federal PKI and certificate authorities.  Only a small percentage of the approximately 150 PACS manufacturers have achieved compliance.
 
-### Why Does My Agency Need This?<!--Add terms to explain "this"; unclear antecedent.-->
+## Why Does My Agency Need This?<!--Add terms to explain "this"; unclear antecedent.-->
 
 A legacy or other non-compliant PACS often relies on proprietary credential data models produced locally.  Non-FICAM-compliant systems typically use common card identifiers, such as 26-bit Wiegand.  The cards are susceptible to cloning, alteration, or duplication.  In addition, these cards are ordered from system providers and the encoding is proprietary.  The data encoded in the card is therefore recorded by several outside organizations.  With no encryption to prevent cloning, duplication, or alteration, a non-compliant PACS offers a relatively simple attack vector to an adversary trying to access a controlled area.
 
 A FICAM-compliant system can mitigate attacks and ensure that only authentic and validated cards can be used.
 
-### How Do I Know Whether This is a Compliant System?<!--Add terms to explain "this"; unclear antecedent.-->
+## How Do I Know Whether This is a Compliant System?<!--Add terms to explain "this"; unclear antecedent.-->
 
 A GSA-listed PACS is significantly different from a legacy or other non-compliant PACS. System hardware, firmware, and software (the PACS infrastructure) and readers support a certificate validation service.  The reader must support bidirectional communication between the card and the certificate validation service.  The certificate validation service interfaces with the Federal PKI and must validate a card before access can be authorized.
 
@@ -43,14 +43,14 @@ To ensure that all the cryptographic processes are executed as intended, the GSA
 
 Each component is tested in a configuration specified by the PACS manufacturer, and each component has an APL approval number.
 
-### What Other Considerations Do I Need To Be Aware of in Implementing a GSA APL-Listed PACS?
+## What Other Considerations Do I Need To Be Aware of in Implementing a GSA APL-Listed PACS?
 
 * Include in the scope of work (SOW) the location of each system component to be installed.
 * Secure the location for all system components.
 * Coordinate with other organizations and service providers to make certain there is appropriate power for all system components.
 * Ensure that network communication is available and secured according to local policies.
 
-### How Do I Buy a Compliant PACS?
+## How Do I Buy a Compliant PACS?
 
 GSA has developed useful tools for both a procuring agency and an organization that is submitting a proposal or responding to a solicitation.
 
@@ -58,7 +58,7 @@ GSA publishes lists of [approved products and services](https://www.idmanagement
 
 Another useful resource is the [PACS Ordering Guide](https://www.gsa.gov/cdnstatic/Guide_to_PACS_-_REVISED_060717.pdf){:target="_blank"}, a vendor-agnostic generic template that procurement and contract officers can use to write solicitations. The Guide explains various functions and FICAM compliance requirements.  It includes simple spreadsheets for use when responding to a proposal or writing one. Use the Guide to be confident that your proposed solution represents a compliant PACS.
 
-### How Can I Identify Qualified FIPS 201 Service Providers?
+## How Can I Identify Qualified FIPS 201 Service Providers?
 
 FIPS 201 service providers must be certified under a federally recognized certification program such as the [Certified System Engineer ICAM PACS Training and Certification Program](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"}<!--Replaced original broken link with current program name and website URL.-->.  The GSA FIPS 201 Evaluation Program maintains a list of approved products and qualified service providers.  Additional details can be found at [GSA Buy Products and Services](https://www.idmanagement.gov/buy/){:target="_blank"}.<!--Corrected reference and GSA website name.-->
 
