@@ -5,9 +5,9 @@ permalink: /standards/
 ---
 ## Public Law
 
-Federal Acquisition Regulation, https://www.acquisition.gov/browsefar
+Federal Acquisition Regulation. https://www.acquisition.gov/browsefar
 
-Federal Information Security Modernization Act (FISMA) of 2014, Public Law No: 113-283, https://www.dhs.gov/fisma
+Public Law No: 113-283, Federal Information Security Modernization Act (FISMA) of 2014. https://www.dhs.gov/fisma
 
 ## Policies
 
@@ -16,7 +16,7 @@ OMB M-11-11, “Continued Implementation of Homeland Security Presidential Direc
 
 ## Standards
 
-[NIST SP 800-116](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-116.pdf){:target="_blank"], _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_, November 2008. **This is the most recent final. Revision 1 is a Draft.**
+[NIST SP 800-116](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-116.pdf){:target="_blank"], _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_, November 2008. **This is the most recent final.**
 _FICAM  Roadmap and Implementation Guidance_ (Version 2)
 _PIV in Enterprise Physical Access Control Systems (E-PACS)_
 
