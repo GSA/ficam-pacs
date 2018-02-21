@@ -9,16 +9,15 @@ permalink: /standards/
 
 ## Policies
 
-[Federal Acquisition Regulation (FAR)](https://www.acquisition.gov/browsefar){:target="_blank"}.
-OMB M-06-18, “Acquisition of Products and Services for Implementation of HSPD-12
-OMB M-11-11, “Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors”
+[Federal Acquisition Regulation (FAR)](https://www.acquisition.gov/browsefar){:target="_blank"}.<br>
+OMB M-06-18, “Acquisition of Products and Services for Implementation of HSPD-12," date, etc.<br>
+OMB M-11-11, “Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors," date, etc.
 
 ## Standards
 
-[FIPS 201-2](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"}, NIST, August 2013.
-[NIST SP 800-116, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-116.pdf){:target="_blank"], November 2008. <**This is the most recent final.  800-116-1 is still in Draft and should not be referenced.**>
-_FICAM  Roadmap and Implementation Guidance_ (Version 2)
-_PIV in Enterprise Physical Access Control Systems (E-PACS)_
+[FIPS 201-2](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"}, NIST, August 2013.<br>
+[NIST SP 800-116, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-116.pdf){:target="_blank"], November 2008. <**This is the most recent final.  800-116-1 is still in Draft and should not be referenced.**>>br>
+_FICAM  Roadmap and Implementation Guidance_ (Version 2)<br>
 
 ## Other References
 
