@@ -14,7 +14,7 @@ In order to determine how many factors of authentication are required, a risk an
 
 **2. Security Area Categorization.**  Next, assign to the security area the same risk level as the highest risk asset within the area.  For example, say there are three assets within a designated security area:  a LOW-risk asset, a MODERATE-risk asset, and a HIGH-risk asset.  The security area must be classified as a HIGH-risk security area.  As an alternative, split the security area into separate security areas, or a set of embedded security areas, each with a different risk categorization. 
 
-NIST SP 800-116 adopts the security area categorizations described in Field Manual 3-19.30, _Physical Security. Headquarters, Department of the Army, United States of America_ (8 January 2001). <!--FM 3-19-30 is no longer listed as in effect by the Army. See http://usacac.army.mil/sites/default/files/misc/doctrine/CDG/fms.html for active listing of FMs.-->The manual defines three security area categories: Exclusion, Limited, and Controlled. (See Table 1.)  The categories distinguish how immediately accessible the security assets (or security interests) are within the security area. 
+NIST SP 800-116 adopts the security area categorizations described in Field Manual 3-19.30, _Physical Security. Headquarters, Department of the Army, United States of America_ (8 January 2001). <!--FM 3-19-30 is no longer listed as in effect by the Army. See http://usacac.army.mil/sites/default/files/misc/doctrine/CDG/fms.html for active listing of FMs.-->The manual defines three security area categories: Exclusion, Limited, and Controlled. The categories distinguish how immediately accessible the security assets (or security interests) are within the security area. (See Table 1.)  
 
 #### Table 1.  Security Area Categories<br>
 
@@ -46,7 +46,7 @@ NIST SP 800-116 recommends the minimum number of authentication factors required
 
 ### What Authentication Mechanisms Are Available?
 
-PIV and PIV-I cards are provisioned (encoded) with both identifiers and cryptographic data objects that can be used to support authentication. Identifiers can include a Federal Agency Smart Credential Number (FASC-N) and Global Unique ID (GUID); data objects can be public and private keys or digital certificates.  FIPS 201 and NIST SP 800-116 list the following electronic authentication methods using the PIV card:
+PIV and PIV-I cards are provisioned (encoded) with both identifiers and cryptographic data objects that can be used to support authentication. Identifiers can include a Federal Agency Smart Credential Number (FASC-N) and Global Unique ID (GUID); data objects can be public and private keys or digital certificates.  FIPS 201<!--Should reference FIPS 201-2--> and NIST SP 800-116 list the following electronic authentication methods using the PIV card:
 
 * PKI authentication using the PIV Authentication Certificate (PKI-AUTH)
 * PKI authentication using the Card Authentication Certificate (PKI-CAK)
@@ -56,7 +56,7 @@ PIV and PIV-I cards are provisioned (encoded) with both identifiers and cryptogr
 * Either attended or unattended authentication using off-card biometric comparisons (BIO(-A)) 
 * Authentication using on-card biometric comparisons (OCC-AUTH)
 
-FIPS 201 and NIST SP 800-116 exclude automated CHUID authentication and visual inspection of the PIV card because they offer little or no authentication assurance for access control.
+FIPS 201 and NIST SP 800-116 exclude automated Card Holder Unique Identifier (CHUID) authentication and visual inspection of the PIV card because they offer little or no authentication assurance for access control.
 
 Table 3 lists the candidate authentication mechanisms for each of the three security area categories.
 
@@ -78,15 +78,15 @@ Use the following checklist to guide PACS policy, planning, and technical implem
 
 * Consider an agency-wide “enterprise PACS” approach, and designate a chief PACS officer to define agency-specific PACS policies and oversee the implementation of the enterprise PACS solution.
 * Review PIV-related Office of Management and Budget and agency policies:&nbsp;&nbsp;OMB M-06-18 and OMB M-11-11. <!--Standards and Policies identifiers and reference information has been moved to Standards and Policies section.-->
-* Review PACS standards and guidance:&nbsp;&nbsp;NIST SP 800-116-1<!--800-116-1 is not Final; still a NIST Draft-->; _FICAM  Roadmap and Implementation Guidance_; and _PIV in Enterprise Physical Access Control Systems (E-PACS)_.
+* Review PACS standards and guidance:&nbsp;&nbsp;NIST SP 800-116-1<**800-116-1 is a Draft**>; _Federal Identity, Credential, and Access Management (FICAM) Roadmap and Implementation Guidance_; and _PIV in Enterprise Physical Access Control Systems (E-PACS)_.
 * Review current and new or planned PACS installations. Agency PACS that are currently using non-PIV tokens must be replaced or upgraded to use PIV cards for authentication.
-> Current agency PACS based on PIV CHUID authentication must be upgraded to use the candidate authentication mechanisms.
+> Current agency PACS based on a PIV CHUID authentication must be upgraded to use the candidate authentication mechanisms.
 > New agency PACS must be PIV-enabled, using the candidate authentication mechanisms.<br>
 * Implement a common procurement process and purchase approved PACS systems and equipment from the GSA Approved Products List (APL).
 
 #### Technical implementation
 
-* Decide whether the PACS back-end system should be cloud-based or local.
+* Decide whether the PACS back-end system should be Cloud-based or local.
 * Determine the security area category for each access point.
 * Select the authentication mechanism to be used at each access point’s PIV card reader.
 * Consider a PACS with external connections to validate PIV digital certificates using an external certificate revocation list or online certificate status protocol services and certificate path validation.
