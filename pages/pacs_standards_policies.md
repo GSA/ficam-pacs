@@ -15,8 +15,11 @@ OMB M-11-11, _Continued Implementation of Homeland Security Presidential Directi
 ## Standards
 
 _Federal Identity, Credential, and Access Management (FICAM) Roadmap and Implementation Guidance_, Version 2.0, Executive Office of the President (EOP) and Federal Chief Information Officers (CIO) Council, December 2, 2011.
+
 [_Federal Information Processing Standard (FIPS) 201-2_](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"}, NIST, August 2013.<br>
-[National Institute of Standards and Technology (NIST) Special Publication (SP) 800-116, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-116.pdf){:target="_blank"], November 2008. <**800-116 is Final; 800-116-1 is a Draft and shouldn't be referenced.**>br>
+
+[National Institute of Standards and Technology (NIST) Special Publication (SP) 800-116, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-116.pdf){:target="_blank"], November 2008. <**800-116-1 is a Draft and shouldn't be referenced. 800-116 is the current Final.**>br>
+
 [_Personal Identity Vertification Interoperability for Non-Federal Issuers_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/PIV_IO_NonFed_Issuers.pdf){:target="_blank"}, Version 1.1, Federal CIO Council, July 2010.<**Corrected broken link (404). Please verify new link is correct reference.**><br>
 
 ## Regulations
@@ -25,7 +28,9 @@ _Federal Identity, Credential, and Access Management (FICAM) Roadmap and Impleme
 
 ## Other References
 
-Field Manual 3-19.30, Physical Security. Headquarters, Department of the Army, United States of America (8 January 2001)<**FM 3-19-30 is no longer in effect as an Army FM. See http://usacac.army.mil/sites/default/files/misc/doctrine/CDG/fms.html for active listing of FMs.**>
+[Federal Identity, Credentialing, and Access Management Personal Identity Verification Interoperable (PIV-I) Frequently Asked Questions (FAQ)](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/PIV-I_FAQ.pdf){:target="_blank"}, Version 1.0, Federal CIO Council, June 28, 2010. <**Corrected broken link (404). Please verify new link is correct reference.**><br>
+
+Field Manual 3-19.30, _Physical Security. Headquarters, Department of the Army, United States of America_, January 8, 2001. (**Note:** FM 3-19-30 is no longer in effect. See http://usacac.army.mil/sites/default/files/misc/doctrine/CDG/fms.html for the Department of the Army's active listing of FMs.)
 
 [Interagency Security Committee (ISC)](https://www.dhs.gov/isc-policies-standards-best-practices){:target="_blank"} publishes policies, standards, and best practices. 
 
@@ -33,4 +38,4 @@ Field Manual 3-19.30, Physical Security. Headquarters, Department of the Army, U
 
 [PIV-I Test Report Template](https://www.idmanagement.gov/piv-i_test_report_template-1/){:target="_blank"}, April 25, 2012. <**Corrected broken link (404). Please verify new link is correct reference. April 25, 2012 is metadata date of creation; none on cover.**><br>
 
-<a name="4">4</a>. [Federal Identity, Credentialing, and Access Management Personal Identity Verification Interoperable (PIV-I) Frequently Asked Questions (FAQ)](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/PIV-I_FAQ.pdf){:target="_blank"}, Version 1.0, Federal CIO Council, June 28, 2010. <**Corrected broken link (404). Please verify new link is correct reference.**><br>
+
