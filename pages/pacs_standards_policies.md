@@ -26,5 +26,5 @@ Field Manual 3-19.30, Physical Security. Headquarters, Department of the Army, U
 
 [Interagency Security Committee (ISC)](https://www.dhs.gov/isc-policies-standards-best-practices){:target="_blank"} publishes policies, standards, and best practices. 
 
-[_Personal Identity Verification (PIV) in Enterprise Physical Access Control Systems (E-PACS)_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/piv-in-epacs.pdf){:target="_blank"}, Version 3.0, ISC, March 26, 2014.
+[_Personal Identity Verification (PIV) in Enterprise Physical Access Control Systems (E-PACS)_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/piv-in-epacs.pdf){:target="_blank"}, Version 3.0, Interagency Security Committee (ISC), March 26, 2014.
 
