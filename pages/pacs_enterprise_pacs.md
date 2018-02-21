@@ -43,7 +43,7 @@ Three security functions are fundamental to an enterprise PACS.
 
 **Table 3. Security Functions in an Enterprise PACS**
 
-| **Security<br>Function** | **Description**      |
+| **Security Function** | **Description**      |
 | :----------- | :-------------------------------     |
 | **Authentication**  |  Authentication of the PIV card and the controls on it. |  
 | **Authorization**  | Just because someone has an authentic high assurance credential (such as a PIV card or Common Access Card [CAC]) does not mean that person should be able to access every resource.  Authorizing access only to the resources each person needs to perform a job is paramount to controlling risk.  In a large enterprise with thousands of employees and contractors needing access to thousands of physical access points, attempting to manage authorization manually is costly and error-prone.  Some form of policy-based automated authorization process is needed. |  
