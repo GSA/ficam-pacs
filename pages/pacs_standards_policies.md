@@ -9,16 +9,18 @@ permalink: /standards/
 
 ## Policies
 
-OMB M-04-04, [_E-Authentication Guidance for Federal Agencies_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-04.pdf){:target="_blank"}.
-OMB M-05-24, [_Implementation of Homeland Security Presidential Directive (HSPD) 12 – Policy for a Common Identification Standard for Federal Employees and Contractors_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-24.pdf){:target="_blank"}.
-OMB M-06-18, [_Acquisition of Products and Services for Implementation of HSPD-12_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2006/m06-18.pdf){:target="_blank"}.
-OMB M-11-11, [_Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"}.
+OMB M-04-04, [_E-Authentication Guidance for Federal Agencies_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-04.pdf){:target="_blank"}.<br>
+OMB M-05-24, [_Implementation of Homeland Security Presidential Directive (HSPD) 12 – Policy for a Common Identification Standard for Federal Employees and Contractors_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-24.pdf){:target="_blank"}.<br>
+OMB M-06-18, [_Acquisition of Products and Services for Implementation of HSPD-12_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2006/m06-18.pdf){:target="_blank"}.<br>
+OMB M-11-11, [_Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"}.<br>
 
 ## Standards and Guidance
 
 _Federal Identity, Credential, and Access Management (FICAM) Roadmap and Implementation Guidance_, Version 2.0, Executive Office of the President (EOP) and Federal Chief Information Officers (CIO) Council, December 2, 2011.
 
-[_Federal Information Processing Standard (FIPS) 201-2_](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"}, NIST, August 2013.<br>
+[_FIPS 201-2_](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"}, NIST, August 2013.<br>
+
+[NIST SP 800-73-4, Interfaces for Personal Identity Verification, May 2015 (Updated 2/8/2016)
 
 [NIST Special Publication (SP) 800-116, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-116.pdf){:target="_blank"], November 2008. <**800-116-1 is a Draft and shouldn't be referenced. 800-116 is the current Final.**>br>
 
