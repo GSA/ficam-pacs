@@ -1,7 +1,7 @@
 This work is in early Alpha stage and is led by the GSA FICAM Program in coordination with the ICAM Subcommittee of the Federal CIO Council and members of the Secure Technology Alliance Access Control Council. 
 
 # Federal Identity,Credential, and Access Management (FICAM) Physical Access Control Systems (PACS)
-This repository is for the collaborative development of the implementation guidance for FICAM PACS. The content is supporting the creation and future versions of "Modernizing PACS Infrastructure", previously found in the <a href="https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/FICAM_Roadmap_and_Implem_Guid.pdf" target="_blank"> FICAM Roadmap and Implementation Guidance v2.0, Section 7 </a>.
+This repository is for the collaborative development of the implementation guidance for FICAM PACS. The content is supporting the creation and future versions of "Modernizing PACS Infrastructure", previously found in the <a href="https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/FICAM_Roadmap_and_Implem_Guid.pdf" target="_blank">FICAM Roadmap and Implementation Guidance v2.0, Section 7 </a>.
 
 Additional repositories are under development for contributors to share ICAM implementation guides, code, reference implementations, and solutions.
 
