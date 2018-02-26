@@ -19,7 +19,7 @@ OMB M-11-11, ["Continued Implementation of Homeland Security Presidential Direct
 
 ## Standards and Guidance
 
-_Federal Identity, Credential, and Access Management (FICAM) Roadmap and Implementation Guidance_, Version 2.0, Executive Office of the President (EOP) and Federal Chief Information Officers (CIO) Council, December 2, 2011.
+[_Federal Identity, Credential, and Access Management (FICAM) Roadmap and Implementation Guidance_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/FICAM_Roadmap_and_Implem_Guid.pdf){:target="_blank"}, Version 2.0, Executive Office of the President (EOP) and Federal Chief Information Officers (CIO) Council, December 2, 2011.
 
 [_Federal Identity, Credentialing, and Access Management Personal Identity Verification Interoperable (PIV-I) Frequently Asked Questions (FAQ)_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/PIV-I_FAQ.pdf){:target="_blank"}, Version 1.0, Federal CIO Council, June 28, 2010. <**Corrected link (404)**>
 
