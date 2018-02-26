@@ -4,8 +4,6 @@ title: Understand Enterprise PACS
 permalink: /enterprisepacs/
 ---
 
-<!--Original title:  Understanding Enterprise PACS and Security Functions-->
-
 Individual PACS are often part of a local “security” network (not the enterprise network), along with cameras, intrusion detection sensors, and other security devices.  In some cases, the PACS is not connected to any network.  As a result, different brands of PACSs or even multiple PACSs that are the same brand, are individually administered with little thought given to unifying security policies enterprise-wide.
 
 This lack of coordination increases risk to the enterprise and operational costs.
