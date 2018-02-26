@@ -9,7 +9,7 @@ Smart card technology can provide an identity management system or physical acce
 
 The PIV and PIV-I credentials include a dual-interface chip that supports both contact (ISO/IEC 7816-compliant) and contactless (ISO/IEC 14443-compliant) operations.
 
-### What Is the Difference between PIV and PIV-I?
+## What Is the Difference between PIV and PIV-I?
 
 The Federal Government has issued well over 5 million PIV cards to employees and contractors.  Federal agencies use the PIV card to authorize employee access to both physical and logical resources and to assign access privileges.  The success of the program is largely due to the development of goals, issuance policies, and technical specifications that all Federal agencies have agreed to follow.  A cross-certification policy establishes trust between agencies; employees from one agency can use their PIV credentials to access controlled resources when visiting other agencies.  A variety of suppliers offer products and systems that conform to the technical interoperability standards.
 
@@ -40,7 +40,7 @@ Agency policy may dictate a background check before granting access to a PIV-I c
 | Organizations that may issue and/or use the credential  | Federal agencies | Federal agencies<br>Federal contractors<br>Commercial organizations doing business with the Federal Government<br>State and local governments<br>Critical infrastructure providers<br>First responder organizations<br>Commercial organizations who are part of an industry initiative and require an interoperable, trusted credential |
 | Use  | Credential can be used in a wide range of both employment-related and consumer-based transactions.<br>Examples include physical access, logical access, mass transit, and closed loop payments. | Same as for PIV  |
 
-### Does PIV-I Affect Federal Agencies and Employees?
+## Does PIV-I Affect Federal Agencies and Employees?
 
 Federal contractors, as well as a variety of other organizations, including large corporations, consulting firms, first responders, and state and local governments, are all beginning to use PIV-I cards.  Federal agencies also issue PIV-I cards to some personnel, such as employees who are waiting for completion of background checks or on temporary assignment.  Certain common considerations drive PIV-I use.
 
@@ -53,7 +53,7 @@ Federal contractors, as well as a variety of other organizations, including larg
 - **Data protection.**  Use of the PIV-I credential supports the secure transfer and storage of data and messages, using encryption and digital signatures.   
 - **Remote access.**  PIV-I credentials use smart card technology and provide strong authentication for remote and wireless access to enterprise networks.  
 
-### What Is the Difference between PIV and PIV-I Readers?
+## What Is the Difference between PIV and PIV-I Readers?
 
 The PIV-I credential is technically interoperable with Federal PIV systems, including card readers.  
 
