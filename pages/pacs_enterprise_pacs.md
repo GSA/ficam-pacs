@@ -18,7 +18,7 @@ For a variety of reasons, some agencies have undertaken efforts to network their
 
 ## Current Government Directives for an Enterprise PACS
 
-![Enterprise PACS management system](../img/enterprise_mgmt_system.png){:style="width:30%;float:center;"}
+![Enterprise PACS management system](../img/enterprise_mgmt_system.png){:style="width:80%;float:center;"}
 
 **Figure 2. Architecture and Components of an Enterprise PACS Environment**
 
@@ -49,7 +49,7 @@ Three security functions are fundamental to an enterprise PACS.
 
 Figure 3, from Chapter 4, page 102, of the FICAM Roadmap, illustrates these concepts.
 
-![FICAM arch and flow automated provisioning and access](../img/arch_flow_provision_access.png){:style="width:30%;float:center;"}
+![FICAM arch and flow automated provisioning and access](../img/arch_flow_provision_access.png){:style="width:80%;float:center;"}
 
 **Figure 3. FICAM Architecture and Flow for Electronically Automated Provisioning and Access Authorization with Audit Capabilities**
 
