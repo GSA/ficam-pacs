@@ -5,7 +5,7 @@ permalink: /deploy/
 ---
 Before deploying a PACS, be sure you have read the prerequisites for an Enterprise PACS.
 
-### What Information Security Standards and Guidelines Apply to the PACS?
+## What Information Security Standards and Guidelines Apply to the PACS?
 
 PACS are now considered part of federal IT infrastructure and are subject to numerous federal information security policies.
 
