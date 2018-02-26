@@ -9,13 +9,13 @@ permalink: /standards/
 
 ## Policies
 
-OMB M-04-04, [_E-Authentication Guidance for Federal Agencies_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-04.pdf){:target="_blank"}, December 16, 2003.
+OMB M-04-04, ["E-Authentication Guidance for Federal Agencies"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-04.pdf){:target="_blank"}, December 16, 2003.
 
-OMB M-05-24, [_Implementation of Homeland Security Presidential Directive (HSPD) 12 – Policy for a Common Identification Standard for Federal Employees and Contractors_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-24.pdf){:target="_blank"}, August 5, 2005.
+OMB M-05-24, ["Implementation of Homeland Security Presidential Directive (HSPD) 12 – Policy for a Common Identification Standard for Federal Employees and Contractors"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-24.pdf){:target="_blank"}, August 5, 2005.
 
-OMB M-06-18, [_Acquisition of Products and Services for Implementation of HSPD-12_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2006/m06-18.pdf){:target="_blank"}, June 30, 2006.
+OMB M-06-18, ["Acquisition of Products and Services for Implementation of HSPD-12"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2006/m06-18.pdf){:target="_blank"}, June 30, 2006.
 
-OMB M-11-11, [_Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors_](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"}, February 3, 2011.
+OMB M-11-11, ["Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"}, February 3, 2011.
 
 ## Standards and Guidance
 
