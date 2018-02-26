@@ -5,11 +5,10 @@ permalink: /enterprisepacs/
 ---
 
 <!--Original title:  Understanding Enterprise PACS and Security Functions-->
-## The Current State of PACS in Government
 
 Individual PACS are often part of a local “security” network (not the enterprise network), along with cameras, intrusion detection sensors, and other security devices.  In some cases, the PACS is not connected to any network.  As a result, different brands of PACSs or even multiple PACSs that are the same brand, are individually administered with little thought given to unifying security policies enterprise-wide.
 
-This lack of coordination increases risk to the enterprise and operational costs. 
+This lack of coordination increases risk to the enterprise and operational costs.
 
 Traditionally, physical security has focused on one site at a time, without regard to overall use.  Government employees and contractors often must travel to or work in different buildings as part of their employment.  Common practice is to enroll the individual’s PIV card in each standalone PACS and provide access authorizations (also called "entitlements" or "privileges") at enrollment.  One problem is that subsequent changes to access authorizations are made manually.  But the biggest problem is that privileges may not be terminated when a PIV card or other credential is no longer valid.
 
@@ -33,7 +32,7 @@ In order to unify PACSs, each system must either be part of the organization’s
 
 One way to mitigate cost is to deploy an enterprise PACS management system on the enterprise network, obtain the ATO for that system, and then connect each individual PACS to the management system with a point-to-point link, such as a point-to-point VPN.  This strategy is subject to a department’s or agency’s FISMA policy interpretation for security boundary control.
 
-Another variant is to deploy the enterprise PACS management system in a Federal Risk and Authorization Management Program (FEDRAMP) HIGH secure cloud and interconnect each PACS and authoritative source to that environment.  This solution is also subject to the FISMA controls implemented at the agency. 
+Another variant is to deploy the enterprise PACS management system in a Federal Risk and Authorization Management Program (FEDRAMP) HIGH secure cloud and interconnect each PACS and authoritative source to that environment.  This solution is also subject to the FISMA controls implemented at the agency.
 
 ## Vital Security Functions Performed by an Enterprise PACS Management System
 
@@ -47,13 +46,14 @@ Three security functions are fundamental to an enterprise PACS.
 | :----------- | :-------------------------------     |
 | **Authentication**  |  Authentication of the PIV card and the controls on it. |  
 | **Authorization**  | Just because someone has an authentic high assurance credential (such as a PIV card or Common Access Card [CAC]) does not mean that person should be able to access every resource.  Authorizing access only to the resources each person needs to perform a job is paramount to controlling risk.  In a large enterprise with thousands of employees and contractors needing access to thousands of physical access points, attempting to manage authorization manually is costly and error-prone.  Some form of policy-based automated authorization process is needed. |  
-| **Audit**   | Compliance to policy must be measured and monitored and violations or defects mitigated.  It is almost impossible to audit authentication and authorizations for every individual without an enterprise PACS management system. |<br> 
+| **Audit**   | Compliance to policy must be measured and monitored and violations or defects mitigated.  It is almost impossible to audit authentication and authorizations for every individual without an enterprise PACS management system. |
+
 
 Figure 3, from Chapter 4, page 102, of the FICAM Roadmap, illustrates these concepts.
 
 ![FICAM arch and flow automated provisioning and access](../img/arch_flow_provision_access.png){:style="width:30%;float:center;"}
 
-**Figure 3. FICAM Architecture and Flow for Electronically Automated Provisioning and Access Authorization with Audit Capabilities** 
+**Figure 3. FICAM Architecture and Flow for Electronically Automated Provisioning and Access Authorization with Audit Capabilities**
 
 Authoritative sources (Active Directory, PIV card database, personnel security system, other identity management systems [IDMS]) are connected to the enterprise PACS management system and automatically add new identities and remove terminated identities.  Most IDMS sources include an application programing interface (API) that allows external systems to access identity information.  The enterprise PACS management system should use that API to provide a near real-time interface, so that new identities are added within minutes.  Any changes to identity attribute data are similarly synchronized between the specific authoritative source and the enterprise PACS management system. This timely synchronization ensures that policy decisions regarding access can be implemented immediately.
 
