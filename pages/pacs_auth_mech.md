@@ -84,7 +84,7 @@ Use the following checklist to guide PACS policy, planning, and technical implem
 > New agency PACS must be PIV-enabled, using the candidate authentication mechanisms.<br>
 - Implement a common procurement process and purchase approved PACS systems and equipment from the GSA Approved Products List (APL).
 
-### Technical implementation
+## Technical Implementation
 
 * Decide whether the PACS back-end system should be Cloud-based or local.
 * Determine the security area category for each access point.
