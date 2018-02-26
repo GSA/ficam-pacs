@@ -46,7 +46,7 @@ NIST SP 800-116 recommends the minimum number of authentication factors required
 
 **4. Authentication Mechanism Assignment.**  Once you know how many authentication factors are required for a security area, you can determine the appropriate authentication mechanisms.  NIST SP 800-116 describes available authentication mechanisms and provides guidance on how they can be applied.  But you can choose to deviate from the NIST SP 800-116 recommended authentication mechanisms and select solutions that fit your particular agency’s needs.
 
-### What Authentication Mechanisms Are Available?
+## What Authentication Mechanisms Are Available?
 
 PIV and PIV-I cards are provisioned (encoded) with both identifiers and cryptographic data objects that can be used to support authentication. Identifiers can include a Federal Agency Smart Credential Number (FASC-N) and Global Unique ID (GUID); data objects can be public and private keys or digital certificates.  FIPS 201<!--Should reference FIPS 201-2--> and NIST SP 800-116 list the following electronic authentication methods using the PIV card:
 
@@ -72,7 +72,7 @@ Table 3 lists the candidate authentication mechanisms for each of the three secu
 
 When using SYM-CAK, PKI-CAK, and PKI-AUTH authentication mechanisms, certificates should be validated when possible. Verify the certificate against a certificate revocation list (CRL) or online certificate status protocol (OCSP) server, and verify the origin of the certificate through the trust chain of issuing certificate authorities to the root certificate authority, using certificate path validation.
 
-### What Do I Need in My Site/Agency?
+## What Do I Need in My Site/Agency?
 
 Use the following checklist to guide PACS policy, planning, and technical implementation when you are going to implement an approved, PIV-enabled PACS.
 
@@ -84,7 +84,7 @@ Use the following checklist to guide PACS policy, planning, and technical implem
 > New agency PACS must be PIV-enabled, using the candidate authentication mechanisms.<br>
 - Implement a common procurement process and purchase approved PACS systems and equipment from the GSA Approved Products List (APL).
 
-#### Technical implementation
+### Technical implementation
 
 * Decide whether the PACS back-end system should be Cloud-based or local.
 * Determine the security area category for each access point.
