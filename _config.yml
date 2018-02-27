@@ -94,19 +94,12 @@ navigation:
 
 
 #https://github.com/jekyll/jekyll/issues/2346
-collections:
-  faq:
-    label: "FAQ"
-    permalink: /faq/:path/
-    output: true
-  start:
-    label: "Getting Started"
-    permalink: /start/:path/
-    output: true
-  usecases:
-    label: "Use Cases"
-    permalink: /usecases/:path/
-    output: true
+#collections:
+#  faq:
+#   label: "FAQ"
+#   permalink: /faq/:path/
+#   output: true
+
 
 
 include:
