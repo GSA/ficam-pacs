@@ -1,7 +1,7 @@
 # Site settings
 
-title: Federal Identity, Credential, and Access Management PACS Guides
-name: Federal Identity, Credential, and Access Management PACS Guides
+title: Physical Access Control Guides
+name: Physical Access Control Guides
 email: icam@gsa.gov
 author:
     name: FICAM
@@ -19,8 +19,8 @@ editbranch: staging
 # Links
 # List links that you would like to appear on the top navigation bar here
 navbar:
-- title: IDmanagement.gov
-  description: Idmanagement.gov
+- title: idmanagement.gov
+  description: idmanagement.gov
   url: https://www.idmanagement.gov
 - title: Federal ICAM Architecture
   description: Federal ICAM Architecture
@@ -28,9 +28,9 @@ navbar:
 - title: PIV Guides
   description: PIV Guides
   url: https://piv.idmanagement.gov
-#- title: Federal PKI Guides
-#  description: Federal PKI Guides
-#  url: https://github.com/gsa/fpki-guides
+- title: Federal PKI Guides
+  description: Federal PKI Guides
+  url: https://fpki.idmanagement.gov
 #- title: Federal ICAM PACS Guides
 #  description: Federal ICAM PACS Guides
 #  url: https://github.com/gsa/ficam-pacs
@@ -59,25 +59,34 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: Basics of a PACS
-  url: basics
+- text: Determine Facility Risk
+  url: facilityrisk/
   internal: true
   coll: false
-- text: Getting Started
-  url: start/
+- text: Select Authentication Mechanism
+  url: authmech/
   internal: true
-  coll: true
-  collname: start
-- text: Use Cases
-  url: usecases/
+  coll: false
+- text: Understand Enterprise PACS
+  url: enterprisepacs/
   internal: true
-  coll: true
-  collname: usecases
-- text: FAQ
-  url: faq/
+  coll: false
+- text: PIV and PIV-I Considerations
+  url: pivandpivi/
   internal: true
-  coll: true
-  collname: faq
+  coll: false
+- text: Procure an Approved PACS
+  url: procure/
+  internal: true
+  coll: false
+- text: Deploy a PACS
+  url: deploy/
+  internal: true
+  coll: false
+- text: Training
+  url: train/
+  internal: true
+  coll: false
 - text: Contribute
   url: contribute/
   internal: true
@@ -85,20 +94,13 @@ navigation:
 
 
 #https://github.com/jekyll/jekyll/issues/2346
-collections:
-  faq:
-    label: "FAQ"
-    permalink: /faq/:path/
-    output: true
-  start:
-    label: "Getting Started"
-    permalink: /start/:path/
-    output: true
-  usecases:
-    label: "Use Cases"
-    permalink: /usecases/:path/
-    output: true
-   
+#collections:
+#  faq:
+#   label: "FAQ"
+#   permalink: /faq/:path/
+#   output: true
+
+
 
 include:
 - _stylesheets
