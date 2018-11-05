@@ -47,7 +47,7 @@ GSA, federal agencies, and industry contributors will collaboratively revise the
 
 ## Content Pages for Contributors (Link)
 
-* [PACS Playbook Live Preview](https://federalist-proxy.app.cloud.gov/preview/gsa/ficam-pacs/pacs-playbook/){:target="_blank"}
+* [PACS Playbook Live Preview](https://federalist-proxy.app.cloud.gov/preview/gsa/ficam-pacs/pacs/){:target="_blank"}
 
 ## General Practices
 This content is Vendor-neutral. Marketing materials for Commercial Products should not be submitted. If you would like to contribute a page or content which includes Commercial Products or specific references for development and engineering, please review the Commercial Product trademark or copyright guides from the Product Vendor and reference those guides in your Pull Request.  
