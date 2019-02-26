@@ -87,6 +87,10 @@ navigation:
   url: train/
   internal: true
   coll: false
+- text: Lessons Learned
+  url: lessonslearned/
+  internal: true
+  coll: false
 - text: Contribute
   url: contribute/
   internal: true
