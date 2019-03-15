@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Procurements
+title: Procure an Approved PACS
 permalink: /procure/
 ---
 ## Where Can I Find Information about GSA-Approved Products?
