@@ -1,13 +1,23 @@
 ---
 layout: default
-title: Standards and Policies
+title: Standards, Policies, and Guidance
 permalink: /standards/
 ---
+
+- [Public Law](#public-law)
+- [Policies](#policies)
+- [Regulations](#regulations)
+- [Standards](#standards)
+- [Guidance and Best Practices](#guidance-and-best-practices)
+- [Other Relevant Publications](#other-relevant-publications)
+
 ## Public Law
 
 [Federal Information Security Modernization Act (FISMA) of 2014](https://www.dhs.gov/fisma){:target="_blank"}, Public Law No: 113-283. 
 
 ## Policies
+
+OMB Circular A-130, ["Managing Information as a Strategic Resource"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf){:target="_blank"}, July 2016.
 
 OMB M-04-04, ["E-Authentication Guidance for Federal Agencies"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-04.pdf){:target="_blank"}, December 16, 2003.
 
@@ -17,21 +27,27 @@ OMB M-06-18, ["Acquisition of Products and Services for Implementation of HSPD-1
 
 OMB M-11-11, ["Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"}, February 3, 2011.
 
-## Standards and Guidance
+OMB M-18-XX (Draft in Process), [Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management](https://policy.cio.gov/identity-draft/).
+
+E.O. 13800, ["Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure"](https://www.whitehouse.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/){:target="_blank"}, May 11, 2017.
+
+E.O. 13636 and PPD-21 - ["DHS Factsheet: Improving Critical Infrastructure Cybersecurity and Critical Infrastructure Security and Resilience")](https://www.dhs.gov/publication/eo-13636-ppd-21-fact-sheet){:target="_blank"}, March 2013.
+
+## Regulations
+
+[_Federal Acquisition Regulation (FAR)_](https://www.acquisition.gov/browsefar){:target="_blank"}.
+
+## Standards
 
 [_Federal Identity, Credential, and Access Management (FICAM) Roadmap and Implementation Guidance_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/FICAM_Roadmap_and_Implem_Guid.pdf){:target="_blank"}, Version 2.0, Executive Office of the President (EOP) and Federal Chief Information Officers (CIO) Council, December 2, 2011.
 
-[_Federal Identity, Credentialing, and Access Management Personal Identity Verification Interoperable (PIV-I) Frequently Asked Questions (FAQ)_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/PIV-I_FAQ.pdf){:target="_blank"}, Version 1.0, Federal CIO Council, June 28, 2010. <**Corrected link (404)**>
+[*Federal Public Key Infrastructure (FPKI) Security Controls Overlay of Special Publication 800-53 Security Controls for PKI Systems*](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/FPKI-Overlay-of-SP-800-53.pdf){:target="_blank"}, v2.0.0, April 24, 2014.
 
-[FIPS PUB 199, _Standards for Security Categorization of Federal Information and Information Systems_] (https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf){:target="_blank"}, NIST, February 2004
+[FIPS PUB 199, _Standards for Security Categorization of Federal Information and Information Systems_](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf){:target="_blank"}, NIST, February 2004
 
 [FIPS PUB 200, _Minimum Security Requirements for Federal Information and Information Systems_](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf){:target="_blank"}, NIST, March 9, 2006. 
 
 [FIPS 201-2, _Personal Identity Verification (PIV) of Federal Employees and Contractors_](http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"}, NIST, August 2013.
-
-[ISO/IEC 7816](https://www.iso.org/home.html){:target="_blank"}, Parts 1-15. ISO/IEC 7816 relates to electronic identification cards with contacts, especially smart cards.
-
-[ISO/IEC 14443, _Identification cards -- Contactless integrated circuit cards -- Proximity cards_](https://www.iso.org/home.html){:target="_blank"}, Parts 1-4. ISO/IEC 14443 defines proximity cards used for identification and the transmission protocols for communicating with them.
 
 [NIST SP 800-53, Revision 4, _Recommended Security Controls for Federal Information Systems and Organizations_](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf){:target="_blank"}, April 2013.
 
@@ -41,23 +57,25 @@ OMB M-11-11, ["Continued Implementation of Homeland Security Presidential Direct
 
 [NIST SP 800-73-4, _Interfaces for Personal Identity Verification_](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-73-4.pdf){:target="_blank"}, Parts 1 and 2, May 2015 (Updated February 8, 2016).
 
-[NIST SP 800-116, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-116.pdf){:target="_blank"], November 2008. <**800-116-1 is a Draft and shouldn't be referenced. 800-116 is the current Final.**>
+[NIST SP 800-116, Revision 1, _Guidelines for the Use of PIV Credentials in Facility Access_](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-116r1.pdf){:target="_blank"}, June 2018. 
 
 [NIST SP 800-171, Revision 1, _Protecting Controlled Unclassified Information in Nonfederal Information Systems and Organizations_](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r1.pdf){:target="_blank"}, December 2016.
 
-[_Personal Identity Verification Interoperability for Non-Federal Issuers_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/PIV_IO_NonFed_Issuers.pdf){:target="_blank"}, Version 1.1, Federal CIO Council, July 2010.<**Corrected broken link (404). Please verify new link is correct reference.**>
+## Guidance and Best Practices
 
-[_Personal Identity Verification (PIV) in Enterprise Physical Access Control Systems (E-PACS)_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/piv-in-epacs.pdf){:target="_blank"}, Version 3.0, Interagency Security Committee (ISC), March 26, 2014.
+[_Best Practices for Planning and Managing Physical Security Resources: An Interagency Security Committee Guide_](https://www.dhs.gov/sites/default/files/publications/isc-planning-managing-physical-security-resources-dec-2015-508.pdf){:target="_blank"}, Interagency Security Council (ISC), December 2015.
 
-[RFC 4530, _Lightweight Directory Access Protocol (LDAP) entryUUID Operational Attribute_](https://www.rfc-editor.org/rfc/pdfrfc/rfc4530.txt.pdf){:target="_blank"}, Internet Engineering Task Force (IETF), June 2006
+[_Enabling Strong Authentication with PIV Cards: Public Key Infrastructure (PKI) in Enterprise Physical Access Control Systems (E-PACS) Recommended Procurement Language for RFPs_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/Procurement-Language-1.1.0.pdf){:target="_blank"}, v1.1.0, GSA, February 24, 2015.
 
-## Other Useful Documentation
+[_PACS Customer Ordering Guide (v2.0)_](https://www.gsa.gov/cdnstatic/General_Supplies__Services/Guide_to_PACS_v2%2006-12-2018.pdf){:target="_blank"}, GSA Schedule 84 - Security, Fire, & Law Enforcement, June 2018.
 
-[Federal Acquisition Regulation (FAR)](https://www.acquisition.gov/browsefar){:target="_blank"}, 44 C.F.R. &sect; <**Need full citation. Please add section # (FAR applicable Subpart and section looks like 44.402(a)(1)?) Add year.**>
+[_Personal Identity Verification (PIV) in Enterprise Physical Access Control Systems (E-PACS)_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/piv-in-epacs.pdf){:target="_blank"}, Interagency Security Committee (ISC), Version 3.1, March 26, 2014.
 
-Field Manual 3-19.30, _Physical Security. Headquarters, Department of the Army, United States of America_, January 8, 2001. <**Note: FM 3-19-30 is no longer in effect. See http://usacac.army.mil/sites/default/files/misc/doctrine/CDG/fms.html for the Department of the Army's active listing of FMs.**>
+[_Personal Identity Verification Interoperability for Issuers_](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/piv-i-for-issuers.pdf){:target="_blank"}, Version 2.0.1, July 27, 2017.
 
-[PACS Ordering Guide](https://www.gsa.gov/cdnstatic/Guide_to_PACS_-_REVISED_060717.pdf), GSA, January 2017.
+[_The Risk Management Process for Federal Facilities: An Interagency Security Committee Standard_](https://www.dhs.gov/sites/default/files/publications/isc-risk-management-process-2016-508.pdf){:target="_blank"}, ISC, 2nd Edition, November 2016.
 
-[PIV-I Test Report Template](https://www.idmanagement.gov/piv-i_test_report_template-1/){:target="_blank"}, April 25, 2012. <**Corrected broken link (404). Please verify new link is correct reference. April 25, 2012 is metadata date of creation; none on cover.**>
+## Other Relevant Publications
 
+["Federal Building Security:
+Actions Needed to Help Achieve Vision for Secure, Interoperable Physical Access Control"](https://www.gao.gov/products/GAO-19-138){:target="_blank"}, Government Accountability Office (GAO), December 20, 2018. 
