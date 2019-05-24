@@ -12,7 +12,7 @@ permalink: /glossary/
 The process of granting or denying specific requests to: 
 
 1. obtain and use information and related information processing services; and 
-2. enter physical facilities (e.g., federal buildings, military establishments, and border crossing entrances).
+2. enter physical facilities, such as federal buildings, military establishments, and border crossing entrances.
 
 
 ### Access Point 
@@ -63,12 +63,17 @@ A shorthand used to represent both BIO and BIO-A authentication mechanisms.
 
 ### Credential
 
-A collection of information about a person, attested to by an issuing authority. A credential is a data object (e.g., a certificate) that can be used to authenticate the credential-holder. One or more data object credentials may be stored on the same physical memory device (e.g., a PIV card).
+A collection of information about a person, attested to by an issuing authority. A credential is a data object, such as a certificate, that can be used to authenticate the credential-holder. One or more data object credentials may be stored on the same physical memory device, such as a PIV card.
 
 
 ### Credential Validation
 
-The process of determining if a credential is valid, i.e., it was legitimately issued, its activation date has been reached, it has not expired, it has not been tampered with, and it has not been suspended or revoked by the issuing authority.
+The process of determining if a credential is valid, which can include the following requirements:
+* The credential was legitimately issued.
+* The credential's activation date has been reached.
+* The credential has not expired.
+* The credential has not been tampered with.
+* The credential has not been suspended or revoked by the issuing authority.
 
 
 ### Certificate Revocation List 
@@ -117,7 +122,7 @@ A PIV authentication mechanism that is implemented by an asymmetric key challeng
 
 ### Provisioning
 
-Specifying for each identity both the credential used (e.g., PIV, CAC, or PIV-I card) and the privileges granted to access specific resources, such as a particular facility, door, or access point, and ensuring that complex set of rules is enforced.
+Specifying for each identity both the credential used (for example, a PIV, CAC, or PIV-I card) and the privileges granted to access specific resources (for example, a particular facility, door, or access point), and ensuring that complex set of rules is enforced.
 
 
 ### SYM-CAK
@@ -127,4 +132,4 @@ The SYM-CAK is an authentication mechanism based on the optional symmetric card 
 
 ### Validation
 
-The process of determining that an identity credential was legitimately issued and is still valid, i.e., has not expired or been revoked.
+The process of determining that an identity credential was legitimately issued and is still valid, that is, the credential has not expired or been revoked.
