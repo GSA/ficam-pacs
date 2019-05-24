@@ -13,7 +13,7 @@ This page provides a sample PACS/E-PACS Procurement Checklist. You can reuse or 
 - Chief Information Officers (CIO)
 - Chief Security Officers (CSO)
 
-Agency staff should be encouraged to participate in steps where their role is listed in blue, bold font.
+Agency staff are encouraged to participate in steps where their roles are listed in blue, bold font.
 
 ## PACS/E-PACS Procurement Checklist 
 
@@ -69,7 +69,7 @@ Agency staff should be encouraged to participate in steps where their role is li
   <ul>
 	<li>Identify the PACS/E-PACS project’s executive sponsor.</li>
 	<li>Document a high-level project purpose, scope, and goals.</li>
-	<li>Identify what standards and requirements need to be addressed (e.g., HSPD-12, FIPS 201-2, NIST SP 800-116, Revision 1).</li>
+	<li>Identify what standards and requirements need to be addressed (for example, HSPD-12, FIPS 201-2, NIST SP 800-116, Revision 1).</li>
 	<li>Estimate project duration.</li>
   </ul>
   </td>
@@ -89,8 +89,8 @@ Agency staff should be encouraged to participate in steps where their role is li
   <ul>
 	<li>Identify your required and optional stakeholders and request their participation.</li>
 	<li>Include national, regional, state, and local stakeholders.</li>
-	<li>Involve stakeholders from agency Information Technology (IT) teams (e.g., architect/engineers, network engineers, security, infrastructure services, directory services, web services).</li>
-	<li>Involve agency facility and personnel support organizations (e.g., physical security, building operations, Human Resources).</li>
+	<li>Involve stakeholders from agency Information Technology (IT) teams (for example, architect/engineers, network engineers, security, infrastructure services, directory services, web services).</li>
+	<li>Involve agency facility and personnel support organizations (for example, physical security, building operations, Human Resources).</li>
   </ul>
   </td>
 </tr>
@@ -140,7 +140,7 @@ Agency staff should be encouraged to participate in steps where their role is li
 <tr>
   <td colspan="7" class="desc">
   <ul>
-	<li>Use automated tools or agency software to create a project schedule (i.e., project tasks, dependencies, durations, and resources).</li>
+	<li>Use automated tools or agency software to create a project schedule (that is, project tasks, dependencies, durations, and resources).</li>
 	<li>Share the project schedule with stakeholders to ensure its accuracy and completeness.</li>
   </ul>
   </td>
@@ -162,17 +162,17 @@ Agency staff should be encouraged to participate in steps where their role is li
 	<li>The FSL assessment and chosen PIV authentication mechanisms will form the basis for the PACS/E-PACS requirements document/specification, as well as affect the SOW and project costs.</li>
 	<li>The sample survey questions below will help you assess the FSL of each facility and select the right PIV authentication mechanisms:
 	<ul>
-		<li>Who (i.e., include all possible users) will use a facility’s PACS/E-PACS?</li>
+		<li>Who will use a facility’s PACS/E-PACS? Include all possible users.</li>
 		<li>What credentials do the facility’s users and visitors have?</li>
 		<li>What facility access risks exist?</li>
 		<li>How can the facility mitigate these risks?</li>
 		<li>What PACS/E-PACS installations does the facility need?</li>
-		<li>What support systems would be integrated into the facility’s PACS/E-PACS (e.g., intrusion detection, video surveillance, emergency notification, elevator control)?</li>
+		<li>What support systems would be integrated into the facility’s PACS/E-PACS (for example, intrusion detection, video surveillance, emergency notification, elevator control)?</li>
 		<li>What PACS/E-PACS integrator or other contractor services does the agency need to solicit bids on?</li>
 		<li>What PACS/E-PACS hardware and software is needed?</li>
 	</ul>
 	</li>
-	<li>Your agency’s selected integrator will help select the approved, needed hardware and software through the GSA Acquisitions process (Schedules 70 and 84, Blanket Purchase Orders, etc.). Useful considerations:
+	<li>Your agency’s selected integrator will help select the approved, needed hardware and software through the GSA Acquisitions process (Schedules 70 and 84, Blanket Purchase Orders, etc.). The following are some useful considerations:
 	<ul>
 		<li>What are the facility’s common ingress and egress traffic patterns?</li>
 		<li>What throughput speeds are needed?</li>
@@ -186,7 +186,7 @@ Agency staff should be encouraged to participate in steps where their role is li
 </tr>
 
  <tr>
-  <td colspan="2" class="what">7. Develop a PACS/E-PACS requirements document (or specification)</td>
+  <td colspan="2" class="what">7. Develop a PACS/E-PACS requirements document or specification</td>
   <td class="who" id="whoactive">IT</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -198,7 +198,7 @@ Agency staff should be encouraged to participate in steps where their role is li
   <td colspan="7" class="desc">
   <ul>
 	<li>When documenting PACS/E-PACS requirements, it’s critical to solicit input from your stakeholders.</li>
-	<li>Organize requirements into clear categories (e.g., technical, performance, and operational) to help stakeholder’s give targeted feedback.</li>
+	<li>Organize requirements into clear categories (for example, technical, performance, and operational) to help stakeholder’s give targeted feedback.</li>
   </ul>
   </td>
 </tr>
@@ -267,7 +267,7 @@ Agency staff should be encouraged to participate in steps where their role is li
 <tr>
   <td colspan="7" class="desc">
   <ul>
-	<li>During your bid and evaluation process, include these steps:
+	<li>Include these steps during your bid and evaluation process:
 	<ul>
 		<li>Identify members of the evaluation committee.</li>
 		<li>Establish evaluation criteria for bid review.</li>
@@ -311,7 +311,7 @@ Agency staff should be encouraged to participate in steps where their role is li
   <ul>
 	<li>After contract award, your integrator will help you:
 	<ul>
-	<li>Choose the best PACS topology (i.e., an end-to-end solution of hardware, software, a Certificate Validation System, and PIV credential readers) listed on the <a href="https://www.idmanagement.gov/approved-products-list-pacs-products/" target="_blank">GSA PACS APL</a> for the PIV authentication mechanisms selected for your facility.</li>
+	<li>Choose the best PACS topology (that is, an end-to-end solution of hardware, software, a Certificate Validation System, and PIV credential readers) listed on the <a href="https://www.idmanagement.gov/approved-products-list-pacs-products/" target="_blank">GSA PACS APL</a> for the PIV authentication mechanisms selected for your facility.</li>
 	<li>Buy the products and additional services you need by using the <a href="https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/schedules-news-and-updates" target="_blank">GSA MAS</a>, <a href="https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70" target="_blank">GSA Schedule 70</a>, or <a href="https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement" target="_blank">GSA Schedule 84</a>. Your chosen integrator will help your agency choose the right PACS products and services, according to your agency’s preferred GSA purchasing vehicle(s).</li>
 	</ul>
 	</li>
