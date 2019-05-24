@@ -19,15 +19,9 @@ permalink: /standards/
 
 OMB Circular A-130, ["Managing Information as a Strategic Resource"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf){:target="_blank"}, July 2016.
 
-OMB M-04-04, ["E-Authentication Guidance for Federal Agencies"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-04.pdf){:target="_blank"}, December 16, 2003.
-
 OMB M-05-24, ["Implementation of Homeland Security Presidential Directive (HSPD) 12 – Policy for a Common Identification Standard for Federal Employees and Contractors"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-24.pdf){:target="_blank"}, August 5, 2005.
 
-OMB M-06-18, ["Acquisition of Products and Services for Implementation of HSPD-12"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2006/m06-18.pdf){:target="_blank"}, June 30, 2006.
-
-OMB M-11-11, ["Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"}, February 3, 2011.
-
-OMB M-18-XX (Draft in Process), [Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management](https://policy.cio.gov/identity-draft/){:target="_blank"}.
+OMB M-19-17, [Enabling Mission Delivery through Improved Identity, Credential, and Access Management]https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf){:target="_blank"}.
 
 E.O. 13800, ["Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure"](https://www.whitehouse.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/){:target="_blank"}, May 11, 2017.
 
