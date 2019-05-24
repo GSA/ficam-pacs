@@ -23,24 +23,24 @@ PACS project teams consist of both agency employees and contractors. Teams inclu
 | IT Architect | Defines the project's technical activities according to the project scope and requirements; conducts further analysis and design, as required; and directs the implementation of a PACS solution. |
 | Network Engineer | Makes configuration recommendations and advises the IT Architect about enterprise-wide network improvements, optimization, testing, deployment, and maintenance.|
 | Technician | Installs, administers, and maintains network and system components. |
-| Operator | Uses physical security functions (e.g., sets access privileges, takes actions to resolve system-generated events and alarms).|
+| Operator | Uses physical security functions, such as setting access privileges or taking actions to resolve system-generated events and alarms.|
 
 
 {% include alert-info.html content="IT Architects, Network Engineers, and Operators may be federal employees and/or contractors. Technicians are typically contractors." %}
 
-{% include alert-info.html content="Teams will also include a PACS Project Manager, Procurements Official or Specialist, project management specialists, budget analysts, lawyer(s), etc." %}
+{% include alert-info.html content="Teams also include a PACS Project Manager, Procurements Official or Specialist, project management specialists, budget analysts, lawyer(s), etc." %}
 
 
 ## Recommended Technical Training
 
 | Role | Recommended Training |
 |:------|:-------------| 
-|IT Architects| Must be knowledgeable about the [GSA PACS APL](https://www.idmanagement.gov/approved-products-list-pacs-products/) and the manufacturers' solutions for PACS. Should be knowledgeable about Federal Government and agency-specific policies, standards, and guidance documents to make design recommendations related to a PACS implementation. Architects must possess a current [Certified System Engineer ICAM PACS (CSEIP) certification](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} or other similar, federally recognized certification in order to implement a PACS solution.|
-|Network Engineers| May hold a [CSEIP](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} certification or other similar, federally recognized certification. Engineers may optionally complete PACS products' manufacturers' training (i.e., PACS APL products) related to the PACS implementation. Should be knowledgeable about Federal Government and agency-specific policies, standards, and guidance documents related to enterprise networks and an PACS implementation. |
+|IT Architects| Must be knowledgeable about the [GSA PACS APL](https://www.idmanagement.gov/approved-products-list-pacs-products/){:target="_blank"} and the manufacturers' solutions for PACS. Should be knowledgeable about Federal Government and agency-specific policies, standards, and guidance documents to make design recommendations related to a PACS implementation. Architects must possess a current [Certified System Engineer ICAM PACS (CSEIP) certification](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} or other similar, federally recognized certification in order to implement a PACS solution.|
+|Network Engineers| May hold a [CSEIP](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} certification or other similar, federally recognized certification. Engineers may optionally complete PACS products' manufacturers' training (for example, PACS APL products) related to the PACS implementation. Should be knowledgeable about Federal Government and agency-specific policies, standards, and guidance documents related to enterprise networks and an PACS implementation. |
 | Technicians | Should complete PACS products' manufacturers' training (i.e., PACS APL products) related to the PACS solution implementation.| 
 | Operators | Should complete tailored training in Federal Government policies and standards related to PACS. Completing PACS products' manufacturers' (i.e., PACS APL products) certification related to the PACS implementation is recommended.|
 
-{% include alert-info.html content="Agencies must specify their requirements for specific roles, responsibilities, and training in their Request for Information (RFI) (i.e., request for contractor qualifications statements) and Statement of Work (SOW)." %}
+{% include alert-info.html content="Agencies must specify their requirements for specific roles, responsibilities, and training in their Request for Information (RFI) (that is, request for contractor qualifications statements) and Statement of Work (SOW)." %}
 
 
 ## Training Opportunities
