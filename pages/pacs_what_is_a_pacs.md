@@ -1,1 +1,35 @@
+---
+layout: default
+title: What is a Physical Access Control System?
+permalink: /what-is-pacs/
+---
 
+## What Is a Physical Access Control System?
+
+A Physical Access Control System (PACS) grants access to employees and contractors who work at or visit one site by electronically authenticating their PIV credentials.
+
+The following table defines common PACS components: 
+
+| **Component** | **Description** |
+|----------------|----------|
+| **Access point** | Entrance point, such as a credential reader, where an employee or contractor interacts with the PACS. The access point also includes barriers, such as turnstiles, gates, and locking doors. |
+| **PIV credential** | Federal employees and contractors use [Personal Identity Verification (PIV) credentials](https://piv.idmanagement.gov/elements/){:target="_blank"}, also known as PIV cards, to *physically access* federal facilities and *logically access* federal information systems. |
+| **Credential reader and keypad** | The reader provides power to and reads data from a PIV credential. The reader also sends this data to a control panel to authenticate the PIV credential and request access authorization. Employees and contractors may need to enter a PIN into the keypad and add a biometric, depending on the facility's security classification and risk levels. | 
+| **Biometric reader** | Captures biometric data (for example, fingerprint or iris scan) and verifies it against the PIV credential's biometric data. |
+| **Control panel** | Receives the credential data sent by the reader and verifies its presence in the credential-holder data repository. It then makes an access decision and transmits authorization data to the access control server and access point.  |
+| **Access control server** | Grants authorization to the employee or contractor requesting access (for example, presenting a PIV credential to a reader). It also registers and enrolls employees and contractors; enrolls and validates credentials; and logs system events. |
+| **Credential-<br>holder data repository** | Contains employee and contractor data and physical access privileges. Control panels use this authoritative data to validate credential data. |
+
+{% include alert-info.html content="All agency-purchased PACS and E-PACS components must be FIPS 201-compliant and selected from <a href=\"https://www.idmanagement.gov/approved-products-list-pacs-products/\" target=\"_blank\">GSA's Approved Products List (APL) for PACS Products</a>. The products in this list have undergone vulnerability and interoperability testing through the FIPS 201 Evaluation Program." %}
+
+
+## Characteristics of a FICAM-Compliant PACS/E-PACS
+In February 2011, the Office of Management and Budget (OMB) issued memorandum [M-11-11](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"} to lead Executive Departments and Agencies on the continued implementation of [HSPD-12](http://www.dhs.gov/homeland-security-presidential-directive-12){:target="_blank"}. M-11-11 also defined a partnership between DHS and GSA to provide agencies with guidance on the implementation of physical access requirements for Federal buildings per the DHS [Interagency Security Committee](https://www.dhs.gov/isc-policies-standards-best-practices){:target="_blank"} Standards and NIST guidelines (for example, [SP 800-116](https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final){:target="_blank"}, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_). 
+
+
+Characteristics of NIST SP 800-116 compliant systems include, but are not limited to:
+- Use high-assurance credentials for electronic authentication of employees and contractors
+- Use non-deprecated authentication mechanisms, as defined by [FIPS 201-2](https://csrc.nist.gov/publications/detail/fips/201/2/final){:target="_blank"}
+- Validate the status and authenticity of credentials
+- Interoperate with PIV credentials issued by other agencies
+- Use components listed on the GSA FIPS 201 Approved Products List (APL)
