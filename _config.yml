@@ -63,7 +63,7 @@ navigation:
   url: what-is-a-pacs/
   internal: true
   coll: false
-- text: Physical Access <br>Control System Deployment Models
+- text: Physical Access Control<br>System Deployment Models
   url: pacs/
   internal: true
   coll: false
