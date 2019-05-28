@@ -4,8 +4,6 @@ title: What is a Physical Access Control System?
 permalink: /what-is-pacs/
 ---
 
-## What Is a Physical Access Control System?
-
 A Physical Access Control System (PACS) grants access to employees and contractors who work at or visit one site by electronically authenticating their PIV credentials.
 
 The following table defines common PACS components: 
@@ -24,8 +22,8 @@ The following table defines common PACS components:
 
 
 ## Characteristics of a FICAM-Compliant PACS/E-PACS
-In February 2011, the Office of Management and Budget (OMB) issued memorandum [M-11-11](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"} to lead Executive Departments and Agencies on the continued implementation of [HSPD-12](http://www.dhs.gov/homeland-security-presidential-directive-12){:target="_blank"}. M-11-11 also defined a partnership between DHS and GSA to provide agencies with guidance on the implementation of physical access requirements for Federal buildings per the DHS [Interagency Security Committee](https://www.dhs.gov/isc-policies-standards-best-practices){:target="_blank"} Standards and NIST guidelines (for example, [SP 800-116](https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final){:target="_blank"}, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_). 
-
+In May 2019, the Office of Management and Budget (OMB) released memorandum [M-19-17](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf){:target="_blank"}, _Enabling Mission Delivery through Improved Identity, Credential, and Access
+Management_. Related to PACS, M-19-17 rescinded memorandum [M-11-11](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"}, _Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 – Policy for a Common Identification Standard for Federal Employees and Contractors_. The updated guidance adds further specificity to require the use of PIV credentials for physical access to Federal buildings, implemented per _[The Risk Management Process for Federal Facilities: An Interagency Security Committee Standard](https://www.dhs.gov/isc-policies-standards-best-practices){:target="_blank"}_ and NIST [SP 800-116](https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final){:target="_blank"}, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_.
 
 Characteristics of NIST SP 800-116 compliant systems include, but are not limited to:
 - Use high-assurance credentials for electronic authentication of employees and contractors
