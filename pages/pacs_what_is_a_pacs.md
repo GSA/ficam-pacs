@@ -18,7 +18,7 @@ The following table defines common PACS components:
 | **Access control server** | Grants authorization to the employee or contractor requesting access (for example, presenting a PIV credential to a reader). It also registers and enrolls employees and contractors; enrolls and validates credentials; and logs system events. |
 | **Credential-<br>holder data repository** | Contains employee and contractor data and physical access privileges. Control panels use this authoritative data to validate credential data. |
 
-{% include alert-info.html content="All agency-purchased PACS and E-PACS components must be FIPS 201-compliant and selected from <a href=\"https://www.idmanagement.gov/approved-products-list-pacs-products/\" target=\"_blank\">GSA's Approved Products List (APL) for PACS Products</a>. The products in this list have undergone vulnerability and interoperability testing through the FIPS 201 Evaluation Program." %}
+{% include alert-info.html content="All agency-purchased PACS components must be FIPS 201-compliant and selected from <a href=\"https://www.idmanagement.gov/approved-products-list-pacs-products/\" target=\"_blank\">GSA's Approved Products List (APL) for PACS Products</a>. The products in this list have undergone vulnerability and interoperability testing through the FIPS 201 Evaluation Program." %}
 
 
 ## Characteristics of a FICAM-Compliant PACS
