@@ -31,3 +31,6 @@ Characteristics of NIST SP 800-116 compliant systems include, but are not limite
 - Validate the status and authenticity of credentials
 - Interoperate with PIV credentials issued by other agencies
 - Use components listed on the GSA FIPS 201 Approved Products List (APL)
+
+
+The next section, *[PACS Deployment Models]({{site.baseurl}}/pacs/)*, describes common deployment models for PACS.
