@@ -4,7 +4,7 @@ title: Introduction
 permalink: /
 ---
 
-This _Physical Access Control System (PACS) Guide_ will help you understand concepts related to _Federal Identity, Credential, and Access Management_-compliant PACSs.  At a high-level, a PACS is a collection of technologies that controls physical access at one or more federal agency sites by electronically authenticating employees and contractors.
+This _Physical Access Control System (PACS) Guide_ will help you understand concepts related to _Federal Identity, Credential, and Access Management_-compliant PACSs.  At a high-level, a PACS is a collection of technologies that controls physical access at one or more federal agency sites by electronically authenticating employees, contractors, and visitors.
 
 To learn more:
 1. [What is a Physical Access Control System?]({{site.baseurl}}/what-is-pacs/)
