@@ -91,9 +91,9 @@ The FSL and Authentication checklist below will help you:
 
 | Category| Minimum Number of Factors | Description|
 |:---------|:--------------------------:|:------------|
-|*Exclusion*| 3| Exclusion areas require all three authentication factors: Something you have, such as a PIV; something you know, such as a PIN; and something you are, such as a fingerprint or iris scan.|
-|*Limited* | 2 | Limited areas require 2 of the 3 authentication factors: a PIV and PIN, a PIV and fingerprint or iris scan, or a PIN and fingerprint or iris scan.|
-|*Controlled* | 1 | Controlled areas require only one authentication factor: a PIV, a PIN, or a fingerprint/iris scan. (There are currently no FICAM-approved one-factor biometric readers.)|  
+|*Exclusion*| 3| Exclusion areas require all three authentication factors: Something you have, such as a PIV credential; something you know, such as a PIN; and something you are, such as a fingerprint or iris scan.|
+|*Limited* | 2 | Limited areas require 2 of the 3 authentication factors: a PIV credential and PIN, a PIV credential and fingerprint or iris scan, or a PIN and fingerprint or iris scan.|
+|*Controlled* | 1 | Controlled areas require only one authentication factor: a PIV credential, a PIN, or a fingerprint/iris scan. (There are currently no FICAM-approved one-factor biometric readers.)|  
   
 
 ## Select Authentication Mechanisms 
