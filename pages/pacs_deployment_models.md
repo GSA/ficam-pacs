@@ -4,14 +4,16 @@ title: PACS Deployment Models
 permalink: /pacs/
 ---
 
-This page will give you a basic understanding of standalone Physical Access Control Systems (PACSs) and Enterprise Physical Access Control Systems (E-PACSs). 
+This page will give you a basic understanding of Physical Access Control System (PACS) deployment models. 
 
 - [What Is a Standalone Physical Access Control System?](#what-is-a-standalone-pacs)
 - [What Is an Enterprise Physical Access Control System?](#what-is-an-enterprise-pacs)
-- [Would an Enterprise Physical Access Control System Work for Our Agency?](#would-an-enterprise-pacs-work-for-our-agency)
-- [What Are the Characteristics of a Federal Identity, Credential, and Access Management (FICAM)-Compliant PACS/E-PACS?](#characteristics-of-a-ficam-compliant-pacse-pacs)
 
-### Some PACS' Operational Challenges
+## What Is a Standalone PACS?
+
+START HERE.
+
+### Standalone PACS' Operational Challenges
 
 Agencies that use standalone PACSs have encountered operational challenges: 
 * Sites must independently control physical access.
@@ -25,13 +27,13 @@ Agencies that use standalone PACSs have encountered operational challenges:
 
 ## What Is an Enterprise PACS?
 
-An Enterprise PACS extends the concept of a PACS to act as a unified, enterprise-wide system that controls physical access at most (or all) sites that belong to an agency. E-PACSs address the operational challenges of standalone PACSs and improve system management, scalability, monitoring, and performance. 
+An Enterprise PACS extends the concept of a standalone PACS to act as a unified, enterprise-wide system that controls physical access at most (or all) sites that belong to an agency. E-PACSs address the operational challenges of standalone PACSs and improve system management, scalability, monitoring, and performance. 
 
 E-PACSs rely on the same components as standalone PACSs. However, an essential architectural distinction is that an E-PACS connects to an agency's enterprise-network, whereas a PACS typically does not.
 
 {% include alert-info.html content="Some agencies need standalone PACSs for their unique sites and missions, but most agencies could benefit from transitioning to an E-PACS." %}
 
-## Would an Enterprise PACS Work for Our Agency?
+### Would an Enterprise PACS Work for Our Agency?
 
 Here are some key E-PACS advantages to consider:
 
@@ -45,8 +47,6 @@ Here are some key E-PACS advantages to consider:
 * Reduced costs for:
     * Server hardware
     * System security assessment and accreditation
-
-
 
 	
 The next section, *[Aligning Facility Security Level (FSL) and Authentication]({{site.baseurl}}/alignfslandauth/)*, explains the processes needed to prepare for a PACS/E-PACS deployment and offers more detail related to the FIPS 201-approved PIV authentication mechanisms.
