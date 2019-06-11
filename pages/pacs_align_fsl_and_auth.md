@@ -4,7 +4,7 @@ title: Aligning Facility Security Level (FSL) and Authentication
 permalink: /alignfslandauth/
 ---
 
-Federal agencies rely on PACS/E-PACS and PIV credentials to confirm that an employee, contractor, or visitor _is_ or _is not_ authorized to access a site and its critical assets, such as systems, information, and people. 
+Federal agencies rely on PACS and PIV credentials to confirm that an employee, contractor, or visitor _is_ or _is not_ authorized to access a site and its critical assets, such as systems, information, and people. 
 
 To protect your agency's critical assets, you must assess each site's risk level (called *Facility Security Level*) and decide what level of PIV credential authentication is required (called *authentication mechanism*). 
 
