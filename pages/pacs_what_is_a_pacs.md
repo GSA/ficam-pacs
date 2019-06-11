@@ -4,7 +4,7 @@ title: What is a Physical Access Control System?
 permalink: /what-is-pacs/
 ---
 
-A Physical Access Control System (PACS) grants access to employees and contractors who work at or visit one site by electronically authenticating their PIV credentials. Although PACSs are Information Technology systems, they must be designed, deployed, and operated in cooperation with Physical Security teams to successfully meet agency mission needs.
+A Physical Access Control System (PACS) grants access to employees and contractors who work at or visit one site by electronically authenticating their PIV credentials. Although PACSs are Information Technology systems, they must be designed, deployed, and operated in cooperation with Physical Security teams to successfully meet agency mission needs. 
 
 
 The following table defines common PACS components: 
