@@ -6,7 +6,7 @@ permalink: /procure/
 
 {% include alert-info.html content="A good starting point that will help you understand Physical Access Control System procurements is GSA’s <a href=\"https://www.gsa.gov/cdnstatic/General_Supplies__Services/Guide_to_PACS_v2%2006-12-2018.pdf\" target=\"_blank\">PACS Customer Ordering Guide. </a>" %}
 
-This page provides a sample PACS/E-PACS Procurement Checklist. You can reuse or tailor this checklist according to your agency’s practices. The checklist highlights common procurement activities as they relate to the following roles:
+This page provides a sample PACS Procurement Checklist. You can reuse or tailor this checklist according to your agency’s practices. The checklist highlights common procurement activities as they relate to the following roles:
 - Information Technology or Physical Security Engineers (IT)
 - Project Managers (PM)
 - Procurement Officers (PO)
@@ -15,7 +15,7 @@ This page provides a sample PACS/E-PACS Procurement Checklist. You can reuse or 
 
 Agency staff are encouraged to participate in steps where their roles are listed in blue, bold font.
 
-## PACS/E-PACS Procurement Checklist 
+## PACS Procurement Checklist 
 
 <style>
 .title {font-size: 20px; color: white; background-color: #112e51; font-weight: 900;}
@@ -31,12 +31,12 @@ Agency staff are encouraged to participate in steps where their roles are listed
  <col width="200">
 
  <tr>
-  <th colspan="2" class="title">PACS/E-PACS Procurement Checklist</th>
+  <th colspan="2" class="title">PACS Procurement Checklist</th>
   <th colspan="5" class="header">Recommended Participants</th>
  </tr>
 
  <tr>
-  <td colspan="2" class="what">1. Identify agency’s need to procure or upgrade a PACS/E-PACS</td>
+  <td colspan="2" class="what">1. Identify agency’s need to procure or upgrade a PACS</td>
   <td class="who">IT</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
@@ -48,7 +48,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
   <td colspan="7" class="desc">
   <ul>
 	<li>Determine whether your agency has a similar effort underway or other projects that could impact the procurement.</li>
-	<li>Determine why the agency needs to procure or upgrade a PACS/E-PACS.</li>
+	<li>Determine why the agency needs to procure or upgrade a PACS.</li>
 	<li>Perform a cost-benefit analysis.</li>
   </ul>
   </td>
@@ -56,7 +56,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
 
  <tr>
-  <td colspan="2" class="what">2. Develop a PACS/E-PACS project charter</td>
+  <td colspan="2" class="what">2. Develop a PACS project charter</td>
   <td class="who">IT</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -67,7 +67,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 <tr>
   <td colspan="7" class="desc">
   <ul>
-	<li>Identify the PACS/E-PACS project’s executive sponsor.</li>
+	<li>Identify the PACS project’s executive sponsor.</li>
 	<li>Document a high-level project purpose, scope, and goals.</li>
 	<li>Identify what standards and requirements need to be addressed (for example, HSPD-12, FIPS 201-2, NIST SP 800-116, Revision 1).</li>
 	<li>Estimate project duration.</li>
@@ -76,7 +76,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">3. Identify and obtain support from PACS/E-PACS stakeholders (iterative)</td>
+  <td colspan="2" class="what">3. Identify and obtain support from PACS stakeholders (iterative)</td>
   <td class="who">IT</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -96,7 +96,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">4. Identify PACS/E-PACS project phases and tasks (iterative) </td>
+  <td colspan="2" class="what">4. Identify PACS project phases and tasks (iterative) </td>
   <td class="who" id="whoactive">IT</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -112,7 +112,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 			<li>Pre-project planning</li>
 			<li>Site security assessment(s)</li>
 			<li>Develop Statement of Work (SOW)</li>
-			<li>Develop PACS/E-PACS Requirements Document (or Specification)</li>
+			<li>Develop PACS Requirements Document (or Specification)</li>
 			<li>Develop and release Request for Information (RFI)</li>
 			<li>Request for Proposal (RFP)/Request for Quotation (RFQ)</li>
 			<li>Integrator (vendor) evaluation and award</li>
@@ -159,17 +159,17 @@ Agency staff are encouraged to participate in steps where their roles are listed
   <td colspan="7" class="desc">
   <ul>
 	<li>For details, see <a href="{{site.baseurl}}/alignfslandauth/" target="_blank">Aligning FSL and Authentication Mechanism</a>.</li>
-	<li>The FSL assessment and chosen PIV authentication mechanisms will form the basis for the PACS/E-PACS requirements document/specification, as well as affect the SOW and project costs.</li>
+	<li>The FSL assessment and chosen PIV authentication mechanisms will form the basis for the PACS requirements document/specification, as well as affect the SOW and project costs.</li>
 	<li>The sample survey questions below will help you assess the FSL of each facility and select the right PIV authentication mechanisms:
 	<ul>
-		<li>Who will use a facility’s PACS/E-PACS? Include all possible users.</li>
+		<li>Who will use a facility’s PACS? Include all possible users.</li>
 		<li>What credentials do the facility’s users and visitors have?</li>
 		<li>What facility access risks exist?</li>
 		<li>How can the facility mitigate these risks?</li>
-		<li>What PACS/E-PACS installations does the facility need?</li>
-		<li>What support systems would be integrated into the facility’s PACS/E-PACS (for example, intrusion detection, video surveillance, emergency notification, elevator control)?</li>
-		<li>What PACS/E-PACS integrator or other contractor services does the agency need to solicit bids on?</li>
-		<li>What PACS/E-PACS hardware and software is needed?</li>
+		<li>What PACS installations does the facility need?</li>
+		<li>What support systems would be integrated into the facility’s PACS (for example, intrusion detection, video surveillance, emergency notification, elevator control)?</li>
+		<li>What PACS integrator or other contractor services does the agency need to solicit bids on?</li>
+		<li>What PACS hardware and software is needed?</li>
 	</ul>
 	</li>
 	<li>Your agency’s selected integrator will help select the approved, needed hardware and software through the GSA Acquisitions process (Schedules 70 and 84, Blanket Purchase Orders, etc.). The following are some useful considerations:
@@ -177,7 +177,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 		<li>What are the facility’s common ingress and egress traffic patterns?</li>
 		<li>What throughput speeds are needed?</li>
 		<li>What are the ongoing operational and projected maintenance needs?</li>
-		<li>What are the training needs for PACS/E-PACS administrators, operators, technicians, and users?</li>
+		<li>What are the training needs for PACS administrators, operators, technicians, and users?</li>
 		<li>Which PIV authentication mechanism(s) will be needed to secure the facility?</li>
 	</ul>
 	</li>
@@ -186,7 +186,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">7. Develop a PACS/E-PACS requirements document or specification</td>
+  <td colspan="2" class="what">7. Develop a PACS requirements document or specification</td>
   <td class="who" id="whoactive">IT</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -197,7 +197,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 <tr>
   <td colspan="7" class="desc">
   <ul>
-	<li>When documenting PACS/E-PACS requirements, it’s critical to solicit input from your stakeholders.</li>
+	<li>When documenting PACS requirements, it’s critical to solicit input from your stakeholders.</li>
 	<li>Organize requirements into clear categories (for example, technical, performance, and operational) to help stakeholder’s give targeted feedback.</li>
   </ul>
   </td>
@@ -215,7 +215,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 <tr>
   <td colspan="7" class="desc">
   <ul>
-	<li>Create and issue an RFI to vendors that requests specific qualifications and capabilities against PACS/E-PACS requirements.</li>
+	<li>Create and issue an RFI to vendors that requests specific qualifications and capabilities against PACS requirements.</li>
   </ul>
   </td>
 </tr>
@@ -281,7 +281,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">12. Develop a PACS/E-PACS architecture and migration strategy</td>
+  <td colspan="2" class="what">12. Develop a PACS architecture and migration strategy</td>
   <td class="who" id="whoactive">IT</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -339,5 +339,5 @@ Agency staff are encouraged to participate in steps where their roles are listed
 - [GSA’s eBuy](https://www.ebuy.gsa.gov/ebuy/){:target="_blank"} RFQ online system enables you to post requirements, obtain quotes, and issue orders electronically. 
 - Approved [Certified System Engineer ICAM PACS (CSEIP) List]( https://www.securetechalliance.org/activities-cseip-registry/){:target="_blank"}.  Agencies must use FIPS 201-approved integrators and other contractors. The "lead designer" for FIPS 201-approved integrators must possess a Certified System Engineer ICAM PACS (CSEIP) certification or be certified by another federally recognized certification program.    
 
-The next section, *[Training]({{site.baseurl}}/train/)*, outlines PACS/E-PACS personnel roles and responsibilities and lists relevant training and certification programs.
+The next section, *[Training]({{site.baseurl}}/train/)*, outlines PACS personnel roles and responsibilities and lists relevant training and certification programs.
 
