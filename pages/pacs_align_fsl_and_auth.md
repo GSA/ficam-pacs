@@ -125,4 +125,4 @@ The table below gives the possible authentication mechanisms for the three (3) s
 
 <br>
 
-The next section, *[Procurements]({{site.baseurl}}/procure/)*, describes the processes and resources needed for a PACS/E-PACS procurement.
+The next section, *[Procurements]({{site.baseurl}}/procure/)*, describes the processes and resources needed for a PACS procurement.
