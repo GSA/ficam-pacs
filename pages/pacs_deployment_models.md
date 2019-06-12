@@ -11,7 +11,7 @@ This page will give you a basic understanding of Physical Access Control System 
 
 ## What Is a Standalone PACS?
 
-START HERE.
+A standalone PACS is a local system that controls physical access to a facility or specific areas within it, for example, a Sensitive Compartmented Information Facility (SCIF). Standalone PACSs are facility-centric, and consequently, these systems typically do not connect to enterprise networks. While this deployment model tends to be the most common and uncomplicated method of managing access to controlled areas, it has several challenges.
 
 ### Standalone PACS' Operational Challenges
 
@@ -27,7 +27,7 @@ Agencies that use standalone PACSs have encountered operational challenges:
 
 ## What Is an Enterprise PACS?
 
-An Enterprise PACS extends the concept of a standalone PACS to act as a unified, enterprise-wide system that controls physical access at most (or all) sites that belong to an agency. E-PACSs address the operational challenges of standalone PACSs and improve system management, scalability, monitoring, and performance. 
+An Enterprise PACS (E-PACS) extends the concept of a standalone PACS to act as a unified, enterprise-wide system that controls physical access at most (or all) sites that belong to an agency. E-PACSs address the operational challenges of standalone PACSs and improve system management, scalability, monitoring, and performance. 
 
 E-PACSs rely on the same components as standalone PACSs. However, an essential architectural distinction is that an E-PACS connects to an agency's enterprise-network, whereas a PACS typically does not.
 
