@@ -14,12 +14,14 @@ Federal agencies have shared these PACS lessons learned:
 - Create, maintain, and share an integrated master schedule that presents project phases, tasks, resources, and dependencies.
 - Build the cost of software licensing and system sustainment into your project budget.
 - Work with facility engineers to identify constraints specific to your workplace, such as mandatory construction requirements. These constraints may limit solution offerings.
+- Agencies moving towards FICAM-compliant PACS should consider the impact to the federal facility population when modernizing PACS assets. 
 - Legacy system hardware, such as credential readers, may not support FICAM compliant modes of operation. (FICAM Mode implies using PKI-based authentication mechanisms and online identity validation.) Review your system hardware capabilities after identifying desired authentication mechanisms to determine if upgrades are necessary. 
 - Utilize legacy credentials and non-FICAM compliant modes of operation *only* in a migration strategy, not as the end state.
 - Retire and phase out secondary, legacy credentials.
 - Use your agency Identity Management System as the canonical source for all user records in the PACS.
 - Some PACS allow user access levels to be assigned at the time of credential registration. Plan the method of assignment before provisioning/registration.
 - Avoid acts of “omission” that create non-compliance. For example, procuring products listed on the Approved Products List (APL) but not correctly enabling FICAM Mode.
+- A risk-based approach should be used when selecting appropriate PIV authentication mechanisms for physical access to Federal government buildings and facilities, regardless of whether they are leased or government-owned. 
 - Understand that PKI is the foundation for high assurance PACS implementations.
 
 
@@ -37,7 +39,7 @@ Federal agencies have shared these PACS lessons learned:
 
 ## Operations
 - Ensure the PACS is configured and maintained to operate in FICAM Mode. 
-- Work with your IT Department to ensure your PACS can perform online certificate validation. If your PACS is limited to offline certificate validation, manually load CRLs and certificate trust lists into the PACS daily.
+- Work with your IT Department to ensure your PACS can perform online certificate validation. Credential validation should take place at or near the time of authentication. If your PACS is limited to offline certificate validation, manually load CRLs and certificate trust lists into the PACS daily.
 - Provision only assured identities from an agency authoritative source into your PACS.
 - For any PIV credential that becomes invalid (expired, certificates placed on CRL, etc.), the PACS administrator may wish to disable the credential in the PACS immediately, rather than waiting for it to happen automatically through the routine credential validation process.  Consider disabling identity and credential records rather than removing them to retain audit data that might be needed at a later time (for example, employee misconduct investigations).
 - To protect privacy, remove all PII from PACS endpoints.
