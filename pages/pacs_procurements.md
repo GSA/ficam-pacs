@@ -7,7 +7,7 @@ permalink: /procure/
 {% include alert-info.html content="A good starting point that will help you understand Physical Access Control System procurements is GSA’s <a href=\"https://www.gsa.gov/cdnstatic/General_Supplies__Services/Guide_to_PACS_v2%2006-12-2018.pdf\" target=\"_blank\">PACS Customer Ordering Guide. </a>" %}
 
 This page provides a sample PACS Procurement Checklist. You can reuse or tailor this checklist according to your agency’s practices. The checklist highlights common procurement activities as they relate to the following roles:
-- Information Technology or Physical Security Engineers (IT)
+- Information Technology or Physical Security Engineers (ENG)
 - Project Managers (PM)
 - Procurement Officers (PO)
 - Chief Information Officers (CIO)
@@ -37,7 +37,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">1. Identify agency’s need to procure or upgrade a PACS</td>
-  <td class="who">IT</td>
+  <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
   <td class="who" id="whoactive">CIO</td>
@@ -57,7 +57,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">2. Develop a PACS project charter</td>
-  <td class="who">IT</td>
+  <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
   <td class="who" id="whoactive">CIO</td>
@@ -69,6 +69,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
   <ul>
 	<li>Identify the PACS project’s executive sponsor.</li>
 	<li>Document a high-level project purpose, scope, and goals.</li>
+	<li>Determine the PACS deployment model required for the project's scope.</li>
 	<li>Identify what standards and requirements need to be addressed (for example, HSPD-12, FIPS 201-2, NIST SP 800-116, Revision 1).</li>
 	<li>Estimate project duration.</li>
   </ul>
@@ -77,7 +78,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">3. Identify and obtain support from PACS stakeholders (iterative)</td>
-  <td class="who">IT</td>
+  <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
   <td class="who" id="whoactive">CIO</td>
@@ -97,7 +98,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">4. Identify PACS project phases and tasks (iterative) </td>
-  <td class="who" id="whoactive">IT</td>
+  <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
   <td class="who">CIO</td>
@@ -130,7 +131,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">5. Develop a project schedule (iterative) </td>
-  <td class="who">IT</td>
+  <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
   <td class="who">CIO</td>
@@ -148,7 +149,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">6. Conduct a Facility Security Level (FSL) assessment of project-related agency sites and determine Personal Identity Verification (PIV) authentication mechanisms for each site</td>
-  <td class="who" id="whoactive">IT</td>
+  <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
   <td class="who" id="whoactive">CIO</td>
@@ -187,7 +188,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">7. Develop a PACS requirements document or specification</td>
-  <td class="who" id="whoactive">IT</td>
+  <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
   <td class="who" id="whoactive">CIO</td>
@@ -205,7 +206,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">8. Release a Request for Information (RFI) to potential service providers</td>
-  <td class="who">IT</td>
+  <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
   <td class="who">CIO</td>
@@ -223,7 +224,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">9. Submit an IT funding proposal following your agency’s budgetary process</td>
-  <td class="who">IT</td>
+  <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
   <td class="who">CIO</td>
@@ -240,7 +241,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">10. Develop an RFP and SOW to solicit GSA-approved integrator bids</td>
-  <td class="who">IT</td>
+  <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
   <td class="who">CIO</td>
@@ -257,7 +258,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">11. Solicit bids, evaluate, and award integrator contract</td>
-  <td class="who" id="whoactive">IT</td>
+  <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
   <td class="who" id="whoactive">CIO</td>
@@ -282,7 +283,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">12. Develop a PACS architecture and migration strategy</td>
-  <td class="who" id="whoactive">IT</td>
+  <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
   <td class="who" id="whoactive">CIO</td>
@@ -299,7 +300,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
  <tr>
   <td colspan="2" class="what">13. Buy products listed on the GSA PACS APL</td>
-  <td class="who">IT</td>
+  <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
   <td class="who">CIO</td>
