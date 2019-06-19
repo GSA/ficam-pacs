@@ -57,7 +57,7 @@ The [Interagency Security Committee](https://www.dhs.gov/interagency-security-co
 Authorized service providers offer manufacturer training for installing, configuring, and maintaining PACSs: [GSA Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"} and [GSA Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"}. This training can be tailored to your agency, facility, implementation features, operational policies, and procedures. This training should be planned during the Procurements phase. 
 
 ### Industry Certifications
-Industry certifications are vendor-neutral and standards-based. GSA requires that all work performed on approved PACS for GSA-managed facilities must be designed and installed by a Certified System Engineer for ICAM PACS (CSEIP).  The [CSEIP Program](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} trains those who implement solutions related to OMB M-05-24, OMB M-06-18, and OMB M-11-11.
+Industry certifications are vendor-neutral and standards-based. GSA requires that all work performed on approved PACS for GSA-managed facilities must be designed and installed by a Certified System Engineer for ICAM PACS (CSEIP).  The [CSEIP Program](https://www.securetechalliance.org/activities-certified-system-engineer-icam-pacs-training-and-certification-program/){:target="_blank"} trains those who implement solutions related to OMB M-05-24 and OMB M-19-17.
 
 Additional certification opportunities are offered by commercial vendors.
 
