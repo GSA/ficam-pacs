@@ -73,9 +73,9 @@ The FSL and Authentication checklist below will help you:
 
 |Category | Description|
 |:---------|:------------|
-| *Exclusion*| An area where uncontrolled movement would permit direct access to a security asset.|
+| *Exclusion*| An area where uncontrolled movement would permit direct access to a security asset, such as a Sensitive Compartmented Information Facility (SCIF).|
 | *Limited* | An area near a secure asset.  Uncontrolled movement within a limited area may permit access to an asset.  Escorts and other restrictions can prevent access.| 
-|*Controlled* | An area near or surrounding a Limited or Exclusion area. A Controlled area provides administrative control, safety, or a buffer zone for embedded Limited or Exclusion areas.  Movement of authorized personnel within this area usually is not controlled, as this area doesn't provide immediate access to secure assets.  |
+|*Controlled* | An area near or surrounding a Limited or Exclusion area, such as a facility lobby. A Controlled area provides administrative control, safety, or a buffer zone for embedded Limited or Exclusion areas.  Movement of authorized personnel within this area usually is not controlled, as this area doesn't provide immediate access to secure assets.  |
 
 - Assign the same risk level as the highest risk asset within the area. 
     - Example: If three (3) assets exist within a security area: one Low-risk, one Moderate-risk, and one High-risk, you must categorize the security area as **High-risk**.  Alternatively, the area may be split into three (3) security areas that each have a different risk level.  
@@ -93,7 +93,7 @@ The FSL and Authentication checklist below will help you:
 |:---------|:--------------------------:|:------------|
 |*Exclusion*| 3| Exclusion areas require all three authentication factors: Something you have, such as a PIV credential; something you know, such as the PIV credential PIN; and something you are, such as a fingerprint or iris scan.|
 |*Limited* | 2 | Limited areas require 2 of the 3 authentication factors, such as a PIV credential and PIN or a PIV credential and fingerprint or iris scan.|
-|*Controlled* | 1 | Controlled areas require only one authentication factor, such as a PIV credential.)|  
+|*Controlled* | 1 | Controlled areas require only one authentication factor, such as a PIV credential.|  
   
 
 ## Select Authentication Mechanisms 
