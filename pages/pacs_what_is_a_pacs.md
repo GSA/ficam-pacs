@@ -17,7 +17,7 @@ The following table defines common PACS components:
 | **Biometric reader** | Captures biometric data (for example, fingerprint or iris scan) and verifies it against the PIV credential's biometric data. |
 | **Control panel** | Receives the credential data sent by the reader and verifies its presence in the credential-holder data repository. It then makes an access decision and transmits authorization data to the access control server and access point.  |
 | **Access control server** | Grants authorization to the employee or contractor requesting access (for example, presenting a PIV credential to a reader). It also registers and enrolls employees and contractors; enrolls and validates credentials; and logs system events. |
-| **Credential-<br>holder data repository** | Contains employee and contractor data and physical access privileges. Control panels use this authoritative data to validate credential data. |
+| **Credential<br>holder data repository** | Contains employee and contractor data and physical access privileges. Control panels use this authoritative data to validate credential data. |
 | **Auxiliary Systems** | Agencies may integrate the PACS with additional facility monitoring systems such as surveillance systems, fire alarm systems, and evacuation systems. |
 
 
