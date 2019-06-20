@@ -29,11 +29,11 @@ In May 2019, the Office of Management and Budget (OMB) released memorandum [M-19
 Management_. Related to PACS, M-19-17 rescinded memorandum [M-11-11](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"}, _Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 – Policy for a Common Identification Standard for Federal Employees and Contractors_. The updated guidance adds further specificity to require the use of PIV credentials for physical access to Federal facilities, implemented per _[The Risk Management Process for Federal Facilities: An Interagency Security Committee Standard](https://www.dhs.gov/isc-policies-standards-best-practices){:target="_blank"}_ and NIST [SP 800-116, Revision 1](https://csrc.nist.gov/publications/detail/sp/800-116/rev-1/final){:target="_blank"}, _A Recommendation for the Use of PIV Credentials in Physical Access Control Systems (PACS)_.
 
 Characteristics of NIST SP 800-116, Revision 1, compliant systems include, but are not limited to:
-- Use high-assurance credentials for electronic authentication of employees and contractors
-- Use non-deprecated authentication mechanisms, as defined by [FIPS 201-2](https://csrc.nist.gov/publications/detail/fips/201/2/final){:target="_blank"}
-- Validate the status and authenticity of credentials
-- Interoperate with PIV credentials issued by other agencies
-- Use components listed on the GSA FIPS 201 Approved Products List (APL)
+- Use high-assurance credentials for electronic authentication of employees and contractors.
+- Use non-deprecated authentication mechanisms, as defined by [FIPS 201-2](https://csrc.nist.gov/publications/detail/fips/201/2/final){:target="_blank"}.
+- Validate the status and authenticity of credentials.
+- Interoperate with PIV credentials issued by other agencies.
+- Use components listed on the GSA FIPS 201 Approved Products List (APL).
 
 
 The next section, *[PACS Deployment Models]({{site.baseurl}}/pacs/)*, describes common deployment models for PACS.
