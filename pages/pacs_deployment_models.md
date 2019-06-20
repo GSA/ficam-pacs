@@ -37,13 +37,13 @@ E-PACSs rely on the same components as standalone PACSs. However, an essential a
 
 Here are some key E-PACS advantages to consider:
 
-* One enterprise-wide system controls physical access for many (or all) agency sites
-* One employee and contractor enrollment system that connects multiple enrollment locations
-* One credential registration and provisioning point
-* One enterprise-wide system for administrators to modify or terminate access privileges
-* One enterprise-wide system that regularly polls for [Certificate Revocation List](https://piv.idmanagement.gov/pivcertchains/#revocation){:target="_blank"} (CRL) updates and maintains revocation data
-* Reduced costs for system management, such as patching, server system administration, and software updates
-* Reduced costs for reporting , such as Federal Information Security Modernization Act [FISMA] reporting
+* One enterprise-wide system controls physical access for many (or all) agency sites.
+* One employee and contractor enrollment system that connects multiple enrollment locations.
+* One credential registration and provisioning point.
+* One enterprise-wide system for administrators to modify or terminate access privileges.
+* One enterprise-wide system that regularly polls for [Certificate Revocation List](https://piv.idmanagement.gov/pivcertchains/#revocation){:target="_blank"} (CRL) updates and maintains revocation data.
+* Reduced costs for system management, such as patching, server system administration, and software updates.
+* Reduced costs for reporting , such as Federal Information Security Modernization Act [FISMA] reporting.
 * Reduced costs for:
     * Server hardware
     * System security assessment and accreditation
