@@ -24,7 +24,7 @@ The FSL and Authentication checklist below will help you:
     - People
     - Information systems and IT infrastructure
     - Campuses, buildings, secure vaults, and armories
-    - Tenant agencies' information systems, IT infrastructure, and people
+    - Tenant agencies' people, information systems, and IT infrastructure
   
 - If you must evaluate an asset's criticality, consider:
     - Security classification level
