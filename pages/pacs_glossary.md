@@ -12,7 +12,7 @@ permalink: /glossary/
 The process of granting or denying specific requests to: 
 
 1. obtain and use information and related information processing services; and 
-2. enter physical facilities (e.g., federal buildings, military establishments, and border crossing entrances).
+2. enter physical facilities, such as federal buildings, military establishments, and border crossing entrances.
 
 
 ### Access Point 
@@ -48,12 +48,12 @@ A measurable, physical characteristic or personal behavioral trait used to recog
 
 ### BIO
 
-A [FIPS 201](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"} authentication mechanism that is implemented by using a fingerprint or iris images data object sent from the PIV credential to the PACS and which is matched to the credential-holder’s live scan.
+A [FIPS 201](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"} authentication mechanism that is implemented by using a fingerprint or iris images data object sent from the PIV credential to the PACS and which is matched to the credential holder’s live scan.
 
 
 ### BIO-A
 
-A [FIPS 201](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"} authentication mechanism in which the BIO authentication mechanism is performed in the presence of an attendant who supervises the use of the PIV credential and the submission of the PIN and the sample biometric by the credential-holder.
+A [FIPS 201](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-2.pdf){:target="_blank"} authentication mechanism in which the BIO authentication mechanism is performed in the presence of an attendant who supervises the use of the PIV credential and the submission of the PIN and the sample biometric by the credential holder.
 
 
 ### BIO(-A)
@@ -63,12 +63,17 @@ A shorthand used to represent both BIO and BIO-A authentication mechanisms.
 
 ### Credential
 
-A collection of information about a person, attested to by an issuing authority. A credential is a data object (e.g., a certificate) that can be used to authenticate the credential-holder. One or more data object credentials may be stored on the same physical memory device (e.g., a PIV card).
+A collection of information about a person, attested to by an issuing authority. A credential is a data object, such as a certificate, that can be used to authenticate the credential holder. One or more data object credentials may be stored on the same physical memory device, such as a PIV card.
 
 
 ### Credential Validation
 
-The process of determining if a credential is valid, i.e., it was legitimately issued, its activation date has been reached, it has not expired, it has not been tampered with, and it has not been suspended or revoked by the issuing authority.
+The process of determining if a credential is valid, which can include the following requirements:
+* The credential was legitimately issued.
+* The credential's activation date has been reached.
+* The credential has not expired.
+* The credential has not been tampered with.
+* The credential has not been suspended or revoked by the issuing authority.
 
 
 ### Certificate Revocation List 
@@ -93,12 +98,12 @@ The process of confirming or denying that a claimed identity is correct by compa
 
 ### Interoperability 
 
-The quality of allowing any government facility or information system to verify a credential-holder’s identity using the credentials on the PIV credential, regardless of issuer.
+The quality of allowing any government facility or information system to verify a credential holder’s identity using the credentials on the PIV credential, regardless of issuer.
 
 
 ### OCC-AUTH
 
-A two-factor authentication mechanism that uses secure messaging and an on-credential comparison of credential-holder fingerprint(s).
+A two-factor authentication mechanism that uses secure messaging and an on-credential comparison of credential holder fingerprint(s).
 
 ### Physical Access Control System
 An electronic system that controls the ability of people to enter a protected area, by means of authentication and authorization at access control points.
@@ -117,14 +122,14 @@ A PIV authentication mechanism that is implemented by an asymmetric key challeng
 
 ### Provisioning
 
-Specifying for each identity both the credential used (e.g., PIV, CAC, or PIV-I card) and the privileges granted to access specific resources, such as a particular facility, door, or access point, and ensuring that complex set of rules is enforced.
+Specifying for each identity both the credential used (for example, a PIV, CAC, or PIV-I card) and the privileges granted to access specific resources (for example, a particular facility, door, or access point), and ensuring that complex set of rules is enforced.
 
 
 ### SYM-CAK
 
-The SYM-CAK is an authentication mechanism based on the optional symmetric card authentication key. As the name implies, the purpose of the SYM-CAK authentication mechanism is to authenticate the credential and thereby the credential-holder.
+The SYM-CAK is an authentication mechanism based on the optional symmetric card authentication key. As the name implies, the purpose of the SYM-CAK authentication mechanism is to authenticate the credential and thereby the credential holder.
 
 
 ### Validation
 
-The process of determining that an identity credential was legitimately issued and is still valid, i.e., has not expired or been revoked.
+The process of determining that an identity credential was legitimately issued and is still valid, that is, the credential has not expired or been revoked.

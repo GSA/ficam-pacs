@@ -59,7 +59,11 @@ navigation:
   url: ''
   internal: true
   coll: false
-- text: Types of Physical Access <br>Control Systems
+- text: What is a Physical Access <br>Control System?
+  url: what-is-pacs/
+  internal: true
+  coll: false
+- text: Physical Access Control<br>System Deployment Models
   url: pacs/
   internal: true
   coll: false

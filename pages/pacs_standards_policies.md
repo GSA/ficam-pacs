@@ -19,15 +19,9 @@ permalink: /standards/
 
 OMB Circular A-130, ["Managing Information as a Strategic Resource"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf){:target="_blank"}, July 2016.
 
-OMB M-04-04, ["E-Authentication Guidance for Federal Agencies"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2004/m04-04.pdf){:target="_blank"}, December 16, 2003.
-
 OMB M-05-24, ["Implementation of Homeland Security Presidential Directive (HSPD) 12 – Policy for a Common Identification Standard for Federal Employees and Contractors"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2005/m05-24.pdf){:target="_blank"}, August 5, 2005.
 
-OMB M-06-18, ["Acquisition of Products and Services for Implementation of HSPD-12"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2006/m06-18.pdf){:target="_blank"}, June 30, 2006.
-
-OMB M-11-11, ["Continued Implementation of Homeland Security Presidential Directive (HSPD) 12 - Policy for a Common Identification Standard for Federal Employees and Contractors"](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2011/m11-11.pdf){:target="_blank"}, February 3, 2011.
-
-OMB M-18-XX (Draft in Process), [Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management](https://policy.cio.gov/identity-draft/).
+OMB M-19-17, [Enabling Mission Delivery through Improved Identity, Credential, and Access Management](https://www.whitehouse.gov/wp-content/uploads/2019/05/M-19-17.pdf){:target="_blank"}, May 21, 2019.
 
 E.O. 13800, ["Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure"](https://www.whitehouse.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/){:target="_blank"}, May 11, 2017.
 
@@ -43,7 +37,7 @@ E.O. 13636 and PPD-21 - ["DHS Factsheet: Improving Critical Infrastructure Cyber
 
 [*Federal Public Key Infrastructure (FPKI) Security Controls Overlay of Special Publication 800-53 Security Controls for PKI Systems*](https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/FPKI-Overlay-of-SP-800-53.pdf){:target="_blank"}, v2.0.0, April 24, 2014.
 
-[FIPS PUB 199, _Standards for Security Categorization of Federal Information and Information Systems_](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf){:target="_blank"}, NIST, February 2004
+[FIPS PUB 199, _Standards for Security Categorization of Federal Information and Information Systems_](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf){:target="_blank"}, NIST, February 2004.
 
 [FIPS PUB 200, _Minimum Security Requirements for Federal Information and Information Systems_](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.200.pdf){:target="_blank"}, NIST, March 9, 2006. 
 
