@@ -36,7 +36,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
  </tr>
 
  <tr>
-  <td colspan="2" class="what">1. Identify agency’s need to procure or upgrade a PACS</td>
+  <td colspan="2" class="what">1. Identify agency’s need to procure or upgrade a PACS.</td>
   <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
@@ -56,7 +56,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
 
  <tr>
-  <td colspan="2" class="what">2. Develop a PACS project charter</td>
+  <td colspan="2" class="what">2. Develop a PACS project charter.</td>
   <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -77,7 +77,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">3. Identify and obtain support from PACS stakeholders (iterative)</td>
+  <td colspan="2" class="what">3. Identify and obtain support from PACS stakeholders (iterative).</td>
   <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -97,7 +97,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">4. Identify PACS project phases and tasks (iterative) </td>
+  <td colspan="2" class="what">4. Identify PACS project phases and tasks (iterative).</td>
   <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -130,7 +130,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">5. Develop a project schedule (iterative) </td>
+  <td colspan="2" class="what">5. Develop a project schedule (iterative).</td>
   <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -148,7 +148,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">6. Conduct a Facility Security Level (FSL) assessment of project-related agency sites and determine Personal Identity Verification (PIV) authentication mechanisms for each site</td>
+  <td colspan="2" class="what">6. Conduct a Facility Security Level (FSL) assessment of project-related agency sites and determine Personal Identity Verification (PIV) authentication mechanisms for each site.</td>
   <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -187,7 +187,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">7. Develop a PACS requirements document or specification</td>
+  <td colspan="2" class="what">7. Develop a PACS requirements document or specification.</td>
   <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -205,7 +205,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">8. Release a Request for Information (RFI) to potential service providers</td>
+  <td colspan="2" class="what">8. Release a Request for Information (RFI) to potential service providers.</td>
   <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
@@ -223,7 +223,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 
 
  <tr>
-  <td colspan="2" class="what">9. Submit an IT funding proposal following your agency’s budgetary process</td>
+  <td colspan="2" class="what">9. Submit an IT funding proposal following your agency’s budgetary process.</td>
   <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
@@ -240,7 +240,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">10. Develop an RFP and SOW to solicit GSA-approved integrator bids</td>
+  <td colspan="2" class="what">10. Develop an RFP and SOW to solicit GSA-approved integrator bids.</td>
   <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
@@ -257,7 +257,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">11. Solicit bids, evaluate, and award integrator contract</td>
+  <td colspan="2" class="what">11. Solicit bids, evaluate, and award integrator contract.</td>
   <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
@@ -282,7 +282,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">12. Develop a PACS architecture and migration strategy</td>
+  <td colspan="2" class="what">12. Develop a PACS architecture and migration strategy.</td>
   <td class="who" id="whoactive">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who">PO</td>
@@ -299,7 +299,7 @@ Agency staff are encouraged to participate in steps where their roles are listed
 </tr>
 
  <tr>
-  <td colspan="2" class="what">13. Buy products listed on the GSA PACS APL</td>
+  <td colspan="2" class="what">13. Buy products listed on the GSA PACS APL.</td>
   <td class="who">ENG</td>
   <td class="who" id="whoactive">PM</td>
   <td class="who" id="whoactive">PO</td>
