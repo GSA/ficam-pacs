@@ -40,6 +40,9 @@ navbar:
 #- title: Federal ICAM PACS Guides
 #  description: Federal ICAM PACS Guides
 #  url: https://github.com/gsa/ficam-pacs
+- title: Program Management Guide
+  description: Program Management Guide
+  url: https://pm.idmanagement.gov
 
 # Build settings
 markdown: kramdown
