@@ -21,6 +21,7 @@ search_site_handle: idmprod
 url: "https://pacs.idmanagement.gov"
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Links
 # List links that you would like to appear on the top navigation bar here
