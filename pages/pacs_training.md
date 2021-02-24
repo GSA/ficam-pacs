@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Training
+redirect_to: https://playbooks.idmanagement.gov/pacs/train/
 permalink: /train/
 ---
 
