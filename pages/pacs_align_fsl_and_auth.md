@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aligning Facility Security Level (FSL) and Authentication
+redirect_to: https://playbooks.idmanagement.gov/pacs/alignfslandauth/
 permalink: /alignfslandauth/
 ---
 

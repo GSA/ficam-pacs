@@ -1,6 +1,7 @@
 ---
 layout: default
 title: What is a Physical Access Control System?
+redirect_to: https://playbooks.idmanagement.gov/pacs/what-is-pacs/
 permalink: /what-is-pacs/
 ---
 

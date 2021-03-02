@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Procurements
+redirect_to: https://playbooks.idmanagement.gov/pacs/procure/
 permalink: /procure/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Standards, Policies, and Guidance
+redirect_to: https://playbooks.idmanagement.gov/pacs/standards/
 permalink: /standards/
 ---
 
