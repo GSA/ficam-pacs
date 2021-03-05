@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How to Contribute
+redirect_to: https://playbooks.idmanagement.gov/contribute/
 permalink: /contribute/
 ---
 

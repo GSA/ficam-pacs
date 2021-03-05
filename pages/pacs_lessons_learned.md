@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lessons Learned
+redirect_to: https://playbooks.idmanagement.gov/pacs/lessonslearned/
 permalink: /lessonslearned/
 ---
 

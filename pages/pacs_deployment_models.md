@@ -1,6 +1,7 @@
 ---
 layout: default
 title: PACS Deployment Models
+redirect_to: https://playbooks.idmanagement.gov/pacs/pacs/
 permalink: /pacs/
 ---
 

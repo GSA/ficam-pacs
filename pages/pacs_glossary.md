@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Glossary
+redirect_to: https://playbooks.idmanagement.gov/pacs/glossary/
 permalink: /glossary/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Opening Issues
+redirect_to: https://playbooks.idmanagement.gov/contribute/#open-an-issue
 permalink: /openissue/
 ---
 
