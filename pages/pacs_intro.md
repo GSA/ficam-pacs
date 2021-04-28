@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-redirect_to: https://playbooks.idmanagement.gov/pacs/intro-pacs/
+redirect_to: https://playbooks.idmanagement.gov/pacs/
 permalink: /
 ---
 
